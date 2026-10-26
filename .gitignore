@@ -3,7 +3,6 @@ datasets/
 baseline/
 
 # Generated/archive files and local OS metadata
-*.md
 *.zip
 .DS_Store
 
