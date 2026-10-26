@@ -1,0 +1,22 @@
+{
+  "args": {
+    "half": -1,
+    "student": "scratch128",
+    "swa": [
+      2,
+      3
+    ],
+    "alpha": 0.75,
+    "train_per_epoch": 6000,
+    "unscored": 0.06,
+    "epochs": 5,
+    "lr": 0.001,
+    "seed": 78,
+    "pool": 6000,
+    "scratch": 128,
+    "device": "cpu",
+    "threads": 6,
+    "gen": 2
+  },
+  "history": []
+}

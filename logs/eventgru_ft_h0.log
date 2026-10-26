@@ -1,0 +1,7 @@
+frozen held-out scored WP 0.580588
+event128_s91_ft_h0 epoch 1 loss 0.929845 66s
+event128_s91_ft_h0 epoch 1 held-out scored WP 0.588526
+event128_s91_ft_h0 epoch 2 loss 0.900664 66s
+event128_s91_ft_h0 epoch 2 held-out scored WP 0.588456
+event128_s91_ft_h0 epoch 3 loss 0.881273 66s
+event128_s91_ft_h0 epoch 3 held-out scored WP 0.588049

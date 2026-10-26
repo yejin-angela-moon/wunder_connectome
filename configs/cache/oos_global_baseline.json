@@ -1,0 +1,15 @@
+{
+  "metric": "global_wp",
+  "sequences": 1873,
+  "selected_rows": 3528273,
+  "seconds": 1181.6786750832107,
+  "models": {
+    "baseline": {
+      "t0": 0.5879125171273879,
+      "t1": 0.6461920608177671,
+      "weighted_pearson": 0.6170522889725776,
+      "selected_rows": 3528273,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    }
+  }
+}

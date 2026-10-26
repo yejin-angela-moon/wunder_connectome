@@ -1,0 +1,218 @@
+{
+  "seed": 8,
+  "history": [
+    {
+      "epoch": 1,
+      "loss": 5.530882780253887,
+      "scores": {
+        "0.0": {
+          "t0": 0.3645477709803874,
+          "t1": 0.2591090255571432,
+          "weighted_pearson": 0.3118283982687653,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "0.25": {
+          "t0": 0.36985329756697943,
+          "t1": 0.26167393708145875,
+          "weighted_pearson": 0.3157636173242191,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "0.5": {
+          "t0": 0.3719287313558411,
+          "t1": 0.2622374478009514,
+          "weighted_pearson": 0.31708308957839626,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "0.75": {
+          "t0": 0.3703625872583387,
+          "t1": 0.2597279558537656,
+          "weighted_pearson": 0.31504527155605216,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "1.0": {
+          "t0": 0.36503760766578686,
+          "t1": 0.2529568453617144,
+          "weighted_pearson": 0.3089972265137506,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        }
+      }
+    },
+    {
+      "epoch": 2,
+      "loss": 5.327418015152216,
+      "scores": {
+        "0.0": {
+          "t0": 0.3645477709803874,
+          "t1": 0.2591090255571432,
+          "weighted_pearson": 0.3118283982687653,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "0.25": {
+          "t0": 0.36976087343130776,
+          "t1": 0.25973235100096415,
+          "weighted_pearson": 0.314746612216136,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "0.5": {
+          "t0": 0.37200797066139485,
+          "t1": 0.2583296078212755,
+          "weighted_pearson": 0.3151687892413352,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "0.75": {
+          "t0": 0.3712273312707665,
+          "t1": 0.25404299131478775,
+          "weighted_pearson": 0.31263516129277713,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "1.0": {
+          "t0": 0.36757293513007616,
+          "t1": 0.24598240119636597,
+          "weighted_pearson": 0.30677766816322105,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        }
+      }
+    },
+    {
+      "epoch": 3,
+      "loss": 5.195058458298445,
+      "scores": {
+        "0.0": {
+          "t0": 0.3645477709803874,
+          "t1": 0.2591090255571432,
+          "weighted_pearson": 0.3118283982687653,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "0.25": {
+          "t0": 0.3701229291075505,
+          "t1": 0.26137878602806064,
+          "weighted_pearson": 0.3157508575678056,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "0.5": {
+          "t0": 0.37355726320081367,
+          "t1": 0.26172608295344996,
+          "weighted_pearson": 0.3176416730771318,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "0.75": {
+          "t0": 0.3750021968733802,
+          "t1": 0.2601883369667561,
+          "weighted_pearson": 0.3175952669200681,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "1.0": {
+          "t0": 0.37467745514412837,
+          "t1": 0.25691347991438984,
+          "weighted_pearson": 0.31579546752925913,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        }
+      }
+    },
+    {
+      "epoch": 4,
+      "loss": 5.001808498054743,
+      "scores": {
+        "0.0": {
+          "t0": 0.3645477709803874,
+          "t1": 0.2591090255571432,
+          "weighted_pearson": 0.3118283982687653,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "0.25": {
+          "t0": 0.3688001100510747,
+          "t1": 0.2622754058705457,
+          "weighted_pearson": 0.3155377579608102,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "0.5": {
+          "t0": 0.3704185663957726,
+          "t1": 0.2630757926075803,
+          "weighted_pearson": 0.3167471795016764,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "0.75": {
+          "t0": 0.36967585784878015,
+          "t1": 0.2614280922048616,
+          "weighted_pearson": 0.31555197502682086,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "1.0": {
+          "t0": 0.36693341233030413,
+          "t1": 0.2574424786327061,
+          "weighted_pearson": 0.3121879454815051,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        }
+      }
+    },
+    {
+      "epoch": 5,
+      "loss": 4.869438000023365,
+      "scores": {
+        "0.0": {
+          "t0": 0.3645477709803874,
+          "t1": 0.2591090255571432,
+          "weighted_pearson": 0.3118283982687653,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "0.25": {
+          "t0": 0.3715955760507703,
+          "t1": 0.26460883668881724,
+          "weighted_pearson": 0.3181022063697938,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "0.5": {
+          "t0": 0.37509128939630715,
+          "t1": 0.26683510483159334,
+          "weighted_pearson": 0.32096319711395027,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "0.75": {
+          "t0": 0.37561844397612415,
+          "t1": 0.2657218685188981,
+          "weighted_pearson": 0.32067015624751116,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "1.0": {
+          "t0": 0.3738161013415327,
+          "t1": 0.2615636295938498,
+          "weighted_pearson": 0.3176898654676913,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        }
+      }
+    }
+  ],
+  "baseline": 0.3118283982687653,
+  "best": 0.32096319711395027,
+  "best_epoch": 5,
+  "best_weight": 0.5,
+  "gain": 0.009134798845184977,
+  "frozen_epoch5_weight05": 0.32096319711395027,
+  "frozen_gain": 0.009134798845184977,
+  "passes_gate": true
+}

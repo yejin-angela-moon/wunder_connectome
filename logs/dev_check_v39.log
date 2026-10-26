@@ -1,0 +1,58 @@
+451 unseen DEV sequences
+predicted encG2h0
+predicted encG2h1
+predicted encG3h0
+predicted encG3h1
+C75                      0.434885
+C76                      0.435040
+C77                      0.436049
+C78                      0.433682
+S71                      0.436161
+S72                      0.434428
+B192                     0.435815
+split                    0.431782
+split_wise               0.433334
+twinC                    0.439717
+twinC72                  0.438290
+twinC73                  0.440233
+twinC74                  0.439072
+twinC75                  0.438667
+twinC76                  0.440845
+twinC77                  0.438962
+twinC78                  0.439224
+encC71                   0.440444
+encC72                   0.440961
+encC73                   0.439797
+encC74                   0.441013
+encC75                   0.441765
+encC76                   0.441287
+encG2h0                  0.441134
+encG2h1                  0.442327
+encG3h0                  0.441609
+encG3h1                  0.443416
+v28 (v24 members)        0.438161
+v28 with WiSE split      0.438332
+v30                      0.439216
+v30 with plain split     0.439046
+v31                      0.439961
+v32                      0.440314
+two twins .3, B192 .2    0.440246
+two twins .4, B192 .2    0.440536
+two twins .4, no B192    0.440189
+v33                      0.440521
+v34: four twins .6, B192 .2 0.441381
+four twins .5, B192 .25  0.441009
+four twins .7, B192 .15  0.441661
+v35                      0.441625
+v36a: five twins .8, split .2 0.441643
+v36b: six twins 1.0, no split 0.442383
+six twins .8, split .2   0.441926
+v36                      0.442383
+v37: seven twins         0.442388
+eight twins              0.442421
+pair twin s71 + twin s72 0.440741
+pair enc s71 + twin s72  0.441100
+v37: five twin-encoders  0.443487
+v38: six twin-encoders   0.443680
+v39: gen-3 halves + four 0.444477
+v39 with gen-2 halves    0.444035

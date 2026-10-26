@@ -1,0 +1,79 @@
+{
+  "three_gru": {
+    "t0": 0.41129558886058737,
+    "t1": 0.41624134873925234,
+    "weighted_pearson": 0.41376846879991985,
+    "selected_rows": 10189312,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  },
+  "strong": {
+    "t0": 0.41476225445622844,
+    "t1": 0.421404765238968,
+    "weighted_pearson": 0.41808350984759823,
+    "selected_rows": 10189312,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  },
+  "warmup": {
+    "t0": 0.403703481692013,
+    "t1": 0.4090185828579318,
+    "weighted_pearson": 0.4063610322749724,
+    "selected_rows": 10189312,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  },
+  "three_warmup_0.05": {
+    "t0": 0.41234728239934126,
+    "t1": 0.41717395641135824,
+    "weighted_pearson": 0.41476061940534975,
+    "selected_rows": 10189312,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  },
+  "three_warmup_0.10": {
+    "t0": 0.41321872420983724,
+    "t1": 0.4179320006264682,
+    "weighted_pearson": 0.41557536241815274,
+    "selected_rows": 10189312,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  },
+  "three_warmup_0.20": {
+    "t0": 0.41443429021123385,
+    "t1": 0.418947367003707,
+    "weighted_pearson": 0.4166908286074704,
+    "selected_rows": 10189312,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  },
+  "three_warmup_0.25": {
+    "t0": 0.414786510527567,
+    "t1": 0.41921694801973924,
+    "weighted_pearson": 0.4170017292736531,
+    "selected_rows": 10189312,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  },
+  "strong_warmup_0.05": {
+    "t0": 0.415351188705893,
+    "t1": 0.42176069628129204,
+    "weighted_pearson": 0.4185559424935925,
+    "selected_rows": 10189312,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  },
+  "strong_warmup_0.10": {
+    "t0": 0.41581307827643355,
+    "t1": 0.42199046345462005,
+    "weighted_pearson": 0.4189017708655268,
+    "selected_rows": 10189312,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  },
+  "strong_warmup_0.20": {
+    "t0": 0.4163551696305305,
+    "t1": 0.42208509202628897,
+    "weighted_pearson": 0.4192201308284097,
+    "selected_rows": 10189312,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  },
+  "strong_warmup_0.25": {
+    "t0": 0.41643591623572995,
+    "t1": 0.42195727827094814,
+    "weighted_pearson": 0.419196597253339,
+    "selected_rows": 10189312,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  }
+}

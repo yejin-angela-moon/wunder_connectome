@@ -1,0 +1,39 @@
+{
+  "seed": 7,
+  "chunk": 2048,
+  "batch": 4,
+  "control": 0.3160643776683788,
+  "history": [
+    {
+      "t0": 0.005580468736407102,
+      "t1": 0.024082436750273897,
+      "weighted_pearson": 0.014831452743340499,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.32285848734836764,
+      "t1": 0.2316926701138024,
+      "weighted_pearson": 0.277275578731085,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.32917529824019137,
+      "t1": 0.2370887353992601,
+      "weighted_pearson": 0.2831320168197257,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.3677112886098105,
+      "t1": 0.25990999205809473,
+      "weighted_pearson": 0.3138106403339526,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    }
+  ],
+  "best": 0.3138106403339526,
+  "gain": -0.002253737334426187,
+  "passes_gate": false
+}

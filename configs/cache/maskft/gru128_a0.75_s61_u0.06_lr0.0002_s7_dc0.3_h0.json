@@ -1,0 +1,35 @@
+{
+  "args": {
+    "command": "run",
+    "members": null,
+    "swa": null,
+    "freeze_recurrent": false,
+    "l2sp": 0.0,
+    "decay_after": 0,
+    "decay_lr": 5e-05,
+    "model": "gru128_a0.75_s61",
+    "half": 0,
+    "unscored": 0.06,
+    "epochs": 3,
+    "lr": 0.0002,
+    "seed": 7,
+    "chunk": 512,
+    "target_balance": false,
+    "corr": 0.0,
+    "gwp": 0.0,
+    "gwp_mse": 1.0,
+    "dropconnect": 0.3,
+    "sam": 0.0,
+    "beta2": 0.999,
+    "input_noise": 0.0,
+    "event_aux": 0.0,
+    "causal_conv": 0,
+    "interval_mlp": 0
+  },
+  "held_out_scored_wp_by_epoch": [
+    0.6742354096182979,
+    0.6791466406845674,
+    0.6809895439796361,
+    0.6814780996573166
+  ]
+}

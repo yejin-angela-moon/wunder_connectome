@@ -1,0 +1,47 @@
+{
+  "ridge": {
+    "t0": 0.48826825674869206,
+    "t1": 0.5211141140038659,
+    "weighted_pearson": 0.504691185376279,
+    "blocks": 1873,
+    "eligible_blocks": 1872,
+    "excluded_blocks": 1,
+    "selected_rows": 3528273,
+    "effective_scored_rows": 3527577,
+    "metric_clip": [
+      -2.0,
+      2.0
+    ],
+    "aggregation": "equal mean of eligible block-wise two-target clipped Weighted Pearson"
+  },
+  "mlp": {
+    "t0": 0.47166116152438803,
+    "t1": 0.5213540064899732,
+    "weighted_pearson": 0.49650758400718065,
+    "blocks": 1873,
+    "eligible_blocks": 1872,
+    "excluded_blocks": 1,
+    "selected_rows": 3528273,
+    "effective_scored_rows": 3527577,
+    "metric_clip": [
+      -2.0,
+      2.0
+    ],
+    "aggregation": "equal mean of eligible block-wise two-target clipped Weighted Pearson"
+  },
+  "gru": {
+    "t0": 0.5124381900434695,
+    "t1": 0.524029683474123,
+    "weighted_pearson": 0.5182339367587963,
+    "blocks": 1873,
+    "eligible_blocks": 1872,
+    "excluded_blocks": 1,
+    "selected_rows": 3528273,
+    "effective_scored_rows": 3527577,
+    "metric_clip": [
+      -2.0,
+      2.0
+    ],
+    "aggregation": "equal mean of eligible block-wise two-target clipped Weighted Pearson"
+  }
+}

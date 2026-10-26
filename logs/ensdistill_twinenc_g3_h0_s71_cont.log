@@ -1,0 +1,4 @@
+scratchtwinenc96g3_a0.75_t6000_p6000_lr0.0002_s71_cont_h0 epoch 0 held-out scored WP 0.688114
+scratchtwinenc96g3_a0.75_t6000_p6000_lr0.0002_s71_cont_h0 epoch 1 loss 0.317891 held-out scored WP 0.68831 6382s
+scratchtwinenc96g3_a0.75_t6000_p6000_lr0.0002_s71_cont_h0 epoch 2 loss 0.317508 held-out scored WP 0.688487 22264s
+scratchtwinenc96g3_a0.75_t6000_p6000_lr0.0002_s71_cont_h0 epoch 3 loss 0.315994 held-out scored WP 0.68821 4282s

@@ -1,0 +1,180 @@
+{
+  "seed": 7,
+  "auxiliary": 0.5,
+  "history": [
+    {
+      "epoch": 1,
+      "loss": 4.295586343854666,
+      "scores": {
+        "0.0": {
+          "t0": 0.31483377019205716,
+          "t1": 0.23336312532776057,
+          "weighted_pearson": 0.2740984477599089,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "0.25": {
+          "t0": 0.3161197833314322,
+          "t1": 0.23417639763973788,
+          "weighted_pearson": 0.27514809048558503,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "0.5": {
+          "t0": 0.3173575672701838,
+          "t1": 0.2349508874956682,
+          "weighted_pearson": 0.276154227382926,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "1.0": {
+          "t0": 0.3196830792833561,
+          "t1": 0.23638016905752712,
+          "weighted_pearson": 0.2780316241704416,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        }
+      }
+    },
+    {
+      "epoch": 2,
+      "loss": 4.099451722577214,
+      "scores": {
+        "0.0": {
+          "t0": 0.32144960873189404,
+          "t1": 0.22670896035594806,
+          "weighted_pearson": 0.27407928454392105,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "0.25": {
+          "t0": 0.3230759717129239,
+          "t1": 0.22874461433873117,
+          "weighted_pearson": 0.27591029302582754,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "0.5": {
+          "t0": 0.3245884439476319,
+          "t1": 0.23067143272681678,
+          "weighted_pearson": 0.2776299383372244,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "1.0": {
+          "t0": 0.3272861636346362,
+          "t1": 0.23418868764525289,
+          "weighted_pearson": 0.2807374256399445,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        }
+      }
+    },
+    {
+      "epoch": 3,
+      "loss": 4.053343358635902,
+      "scores": {
+        "0.0": {
+          "t0": 0.3685318419020689,
+          "t1": 0.26461904909334644,
+          "weighted_pearson": 0.31657544549770766,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "0.25": {
+          "t0": 0.3688162806180291,
+          "t1": 0.2644370952480413,
+          "weighted_pearson": 0.3166266879330352,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "0.5": {
+          "t0": 0.36903931848416444,
+          "t1": 0.26420325075633777,
+          "weighted_pearson": 0.3166212846202511,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "1.0": {
+          "t0": 0.369297550674537,
+          "t1": 0.26358186566963715,
+          "weighted_pearson": 0.3164397081720871,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        }
+      }
+    },
+    {
+      "epoch": 4,
+      "loss": 3.8848737958818673,
+      "scores": {
+        "0.0": {
+          "t0": 0.36757633775411447,
+          "t1": 0.2612312565472887,
+          "weighted_pearson": 0.31440379715070155,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "0.25": {
+          "t0": 0.36783619514279003,
+          "t1": 0.26101223584234506,
+          "weighted_pearson": 0.31442421549256755,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "0.5": {
+          "t0": 0.36804300523131306,
+          "t1": 0.26075560294255673,
+          "weighted_pearson": 0.3143993040869349,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "1.0": {
+          "t0": 0.36829262917882316,
+          "t1": 0.26012557603291747,
+          "weighted_pearson": 0.3142091026058703,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        }
+      }
+    },
+    {
+      "epoch": 5,
+      "loss": 3.7995696999132633,
+      "scores": {
+        "0.0": {
+          "t0": 0.36767008443787164,
+          "t1": 0.25961630910473343,
+          "weighted_pearson": 0.31364319677130253,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "0.25": {
+          "t0": 0.3678476770399182,
+          "t1": 0.259471295322677,
+          "weighted_pearson": 0.3136594861812976,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "0.5": {
+          "t0": 0.36797713149897926,
+          "t1": 0.2592798659542684,
+          "weighted_pearson": 0.3136284987266238,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        },
+        "1.0": {
+          "t0": 0.368085732970009,
+          "t1": 0.2587542902551366,
+          "weighted_pearson": 0.3134200116125728,
+          "selected_rows": 636832,
+          "aggregation": "global clipped Weighted Pearson over all selected rows"
+        }
+      }
+    }
+  ],
+  "control": 0.3160643776683788,
+  "frozen_epoch5_mix05": 0.3136284987266238,
+  "gain": -0.0024358789417550097,
+  "passes_gate": false
+}

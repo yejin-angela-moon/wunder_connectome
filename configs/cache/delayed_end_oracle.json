@@ -1,0 +1,16 @@
+{
+  "reconstructed_previous": {
+    "t0": 0.2566781184981231,
+    "t1": 0.1528962125899851,
+    "weighted_pearson": 0.2047871655440541,
+    "selected_rows": 636832,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  },
+  "transition": {
+    "t0": 0.27532087938186584,
+    "t1": 0.19923684887945617,
+    "weighted_pearson": 0.23727886413066102,
+    "selected_rows": 636832,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  }
+}

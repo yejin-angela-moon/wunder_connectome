@@ -1,0 +1,38 @@
+{
+  "true_previous": {
+    "t0": 0.982721747139422,
+    "t1": 0.9766847163337851,
+    "weighted_pearson": 0.9797032317366035,
+    "selected_rows": 636832,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  },
+  "true_previous_plus_delta": {
+    "t0": 0.9890299441153388,
+    "t1": 0.9850990515536531,
+    "weighted_pearson": 0.987064497834496,
+    "selected_rows": 636832,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  },
+  "true_anchor_integrated": {
+    "t0": 0.03813708962801771,
+    "t1": 0.05441916800932996,
+    "weighted_pearson": 0.04627812881867384,
+    "selected_rows": 636832,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  },
+  "event_delta": {
+    "correlation": [
+      0.6794160325109484,
+      0.7052264200285081
+    ],
+    "rmse": [
+      0.4179231418159904,
+      0.40803483319870154
+    ],
+    "zero_rate": [
+      0.6438802419980351,
+      0.6392781426133719
+    ],
+    "events": 116034
+  }
+}

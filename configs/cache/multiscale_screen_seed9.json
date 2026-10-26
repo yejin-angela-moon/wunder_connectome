@@ -1,0 +1,52 @@
+{
+  "device": "cpu",
+  "seed": 9,
+  "control": 0.316064,
+  "history": [
+    {
+      "t0": 0.0949269772852379,
+      "t1": -0.0033011695894816398,
+      "weighted_pearson": 0.04581290384787813,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.34440080784026955,
+      "t1": 0.2619221355635563,
+      "weighted_pearson": 0.30316147170191293,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.3237349571813524,
+      "t1": 0.26677167130270035,
+      "weighted_pearson": 0.2952533142420264,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.38378329983447645,
+      "t1": 0.2797363218650184,
+      "weighted_pearson": 0.3317598108497474,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.37484393051182907,
+      "t1": 0.27866706354276943,
+      "weighted_pearson": 0.3267554970272992,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.37190372178564346,
+      "t1": 0.27349083761731574,
+      "weighted_pearson": 0.3226972797014796,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    }
+  ],
+  "best": 0.3317598108497474,
+  "gain": 0.015695810849747416,
+  "passes_gate": true
+}

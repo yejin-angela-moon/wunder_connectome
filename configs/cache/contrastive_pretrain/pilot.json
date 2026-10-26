@@ -1,0 +1,105 @@
+{
+  "device": "cpu",
+  "horizons": [
+    1,
+    8,
+    32
+  ],
+  "pretrain_loss": [
+    2.358522424331078,
+    1.7837905646898808,
+    1.7109084251599433
+  ],
+  "control": [
+    {
+      "t0": 0.005580468736407102,
+      "t1": 0.024082436750273897,
+      "weighted_pearson": 0.014831452743340499,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.33293741184784337,
+      "t1": 0.2312398477653119,
+      "weighted_pearson": 0.2820886298065776,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.3239944287178796,
+      "t1": 0.2355364373539968,
+      "weighted_pearson": 0.2797654330359382,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.37271375522345873,
+      "t1": 0.25941500011329893,
+      "weighted_pearson": 0.3160643776683788,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.3735291652968579,
+      "t1": 0.25593169249002795,
+      "weighted_pearson": 0.31473042889344294,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.3732674925905,
+      "t1": 0.2541674611619343,
+      "weighted_pearson": 0.31371747687621715,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    }
+  ],
+  "contrastive": [
+    {
+      "t0": 0.009283428101854828,
+      "t1": 0.03662047183531132,
+      "weighted_pearson": 0.022951949968583074,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.3379422431000877,
+      "t1": 0.23994073002148084,
+      "weighted_pearson": 0.2889414865607843,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.3176644053361141,
+      "t1": 0.23919058897045944,
+      "weighted_pearson": 0.2784274971532868,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.36279395109456075,
+      "t1": 0.26478102880105847,
+      "weighted_pearson": 0.3137874899478096,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.3604200758260639,
+      "t1": 0.2607303750599559,
+      "weighted_pearson": 0.31057522544300986,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.36414826799322225,
+      "t1": 0.2545618298318788,
+      "weighted_pearson": 0.3093550489125505,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    }
+  ],
+  "control_best": 0.3160643776683788,
+  "contrastive_best": 0.3137874899478096,
+  "gain": -0.0022768877205692206,
+  "passes_gate": false
+}

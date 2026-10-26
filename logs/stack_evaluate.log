@@ -1,0 +1,64 @@
+research/stack.py:103: RuntimeWarning: divide by zero encountered in matmul
+  a[k] += xw.T @ x
+research/stack.py:103: RuntimeWarning: overflow encountered in matmul
+  a[k] += xw.T @ x
+research/stack.py:103: RuntimeWarning: invalid value encountered in matmul
+  a[k] += xw.T @ x
+research/stack.py:104: RuntimeWarning: divide by zero encountered in matmul
+  b[k] += xw.T @ target[:, k]
+research/stack.py:104: RuntimeWarning: overflow encountered in matmul
+  b[k] += xw.T @ target[:, k]
+research/stack.py:104: RuntimeWarning: invalid value encountered in matmul
+  b[k] += xw.T @ target[:, k]
+research/stack.py:121: RuntimeWarning: divide by zero encountered in matmul
+  out[start:start + len(r)] = h[r][:, columns].astype(np.float64) @ beta[:-1] + beta[-1]
+research/stack.py:121: RuntimeWarning: overflow encountered in matmul
+  out[start:start + len(r)] = h[r][:, columns].astype(np.float64) @ beta[:-1] + beta[-1]
+research/stack.py:121: RuntimeWarning: invalid value encountered in matmul
+  out[start:start + len(r)] = h[r][:, columns].astype(np.float64) @ beta[:-1] + beta[-1]
+v1 all_rows 0.0001 [0.67433 0.67602] 0.67518
+v1 all_rows 0.01 [0.67444 0.67608] 0.67526
+v1 scored_x16 0.0001 [0.67695 0.67783] 0.67739
+v1 scored_x16 0.01 [0.67708 0.67785] 0.67747
+v1 scored_only 0.0001 [0.67669 0.67732] 0.67701
+v1 scored_only 0.01 [0.6769  0.67739] 0.67714
+v1+teacher3 all_rows 0.0001 [0.67427 0.67446] 0.67436
+v1+teacher3 all_rows 0.01 [0.67502 0.67535] 0.67518
+v1+teacher3 scored_x16 0.0001 [0.67667 0.67655] 0.67661
+v1+teacher3 scored_x16 0.01 [0.67756 0.67764] 0.6776
+v1+teacher3 scored_only 0.0001 [0.67478 0.67384] 0.67431
+v1+teacher3 scored_only 0.01 [0.67616 0.67577] 0.67596
+all5 all_rows 0.0001 [0.67429 0.67401] 0.67415
+all5 all_rows 0.01 [0.67516 0.67509] 0.67513
+all5 scored_x16 0.0001 [0.67647 0.6765 ] 0.67648
+all5 scored_x16 0.01 [0.67752 0.6777 ] 0.67761
+all5 scored_only 0.0001 [0.67413 0.67367] 0.6739
+all5 scored_only 0.01 [0.67575 0.67565] 0.6757
+single   v1                               0.67559 [0.67502 0.67616]
+single   v2                               0.67573 [0.67611 0.67535]
+single   t_norm                           0.67207 [0.6721  0.67204]
+single   t_s17                            0.65870 [0.66021 0.6572 ]
+single   t_s37                            0.65973 [0.65949 0.65998]
+blend    v1+teacher3                      0.67584 [0.67599 0.67568]
+blend    teacher3                         0.67394 [0.67435 0.67353]
+blend    all5                             0.67633 [0.67653 0.67613]
+blend    v1+v2                            0.67687 [0.67677 0.67697]
+readout  v1|all_rows|lam0.0001            0.67518 [0.67433 0.67602]
+readout  v1|all_rows|lam0.01              0.67526 [0.67444 0.67608]
+readout  v1|scored_x16|lam0.0001          0.67739 [0.67695 0.67783]
+readout  v1|scored_x16|lam0.01            0.67747 [0.67708 0.67785]
+readout  v1|scored_only|lam0.0001         0.67701 [0.67669 0.67732]
+readout  v1|scored_only|lam0.01           0.67714 [0.6769  0.67739]
+readout  v1+teacher3|all_rows|lam0.0001   0.67436 [0.67427 0.67446]
+readout  v1+teacher3|all_rows|lam0.01     0.67518 [0.67502 0.67535]
+readout  v1+teacher3|scored_x16|lam0.0001 0.67661 [0.67667 0.67655]
+readout  v1+teacher3|scored_x16|lam0.01   0.67760 [0.67756 0.67764]
+readout  v1+teacher3|scored_only|lam0.0001 0.67431 [0.67478 0.67384]
+readout  v1+teacher3|scored_only|lam0.01  0.67596 [0.67616 0.67577]
+readout  all5|all_rows|lam0.0001          0.67415 [0.67429 0.67401]
+readout  all5|all_rows|lam0.01            0.67513 [0.67516 0.67509]
+readout  all5|scored_x16|lam0.0001        0.67648 [0.67647 0.6765 ]
+readout  all5|scored_x16|lam0.01          0.67761 [0.67752 0.6777 ]
+readout  all5|scored_only|lam0.0001       0.67390 [0.67413 0.67367]
+readout  all5|scored_only|lam0.01         0.67570 [0.67575 0.67565]
+EXIT 0

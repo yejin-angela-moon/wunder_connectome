@@ -1,0 +1,90 @@
+{
+  "args": {
+    "test_half": 0,
+    "train_groups": 16,
+    "eval_groups": 16,
+    "epochs": 1,
+    "width": 96,
+    "lr": 0.001,
+    "seed": 7,
+    "device": "cpu",
+    "selfcheck": false
+  },
+  "train_half": 1,
+  "train_group_ids": [
+    1,
+    125,
+    249,
+    375,
+    499,
+    623,
+    749,
+    873,
+    997,
+    1123,
+    1247,
+    1371,
+    1497,
+    1621,
+    1745,
+    1871
+  ],
+  "eval_group_ids": [
+    0,
+    124,
+    248,
+    374,
+    498,
+    624,
+    748,
+    872,
+    998,
+    1122,
+    1248,
+    1372,
+    1496,
+    1622,
+    1746,
+    1872
+  ],
+  "base_cache_fitted_half": 1,
+  "train_cache_fitted_half": 0,
+  "history": [
+    {
+      "epoch": 0,
+      "loss": null,
+      "scores": {
+        "strong": 0.7783263925273856,
+        "residual": 0.0,
+        "blend_0.05": 0.7783263925273856,
+        "blend_0.1": 0.7783263925273856,
+        "blend_0.2": 0.7783263925273856,
+        "blend_0.3": 0.7783263925273856,
+        "blend_0.5": 0.7783263925273856,
+        "blend_1": 0.7783263925273856
+      }
+    },
+    {
+      "epoch": 1,
+      "loss": 0.936284631676972,
+      "scores": {
+        "strong": 0.7783263925273856,
+        "residual": -0.18857683973671496,
+        "blend_0.05": 0.7784079908587938,
+        "blend_0.1": 0.7784719492352152,
+        "blend_0.2": 0.7785462217033468,
+        "blend_0.3": 0.7785477650392643,
+        "blend_0.5": 0.7783268293020544,
+        "blend_1": 0.7763993401116887
+      }
+    }
+  ],
+  "best": {
+    "blend": "blend_0.3",
+    "score": 0.7785477650392643,
+    "epoch": 1,
+    "gain": 0.00022137251187870355
+  },
+  "passes_pilot_gate": false,
+  "methodology": "sequence-disjoint cross-fit base and residual correction; is_scored is loss-only"
+}

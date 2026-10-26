@@ -1,0 +1,19 @@
+{
+  "args": {
+    "model": "v1",
+    "half": 0,
+    "unscored": 0.06,
+    "train_per_epoch": 936,
+    "epochs": 3,
+    "lr": 0.0002,
+    "seed": 7,
+    "train_pool": "cache/maskmix/validlike_train_top1500.npy",
+    "device": "cpu"
+  },
+  "history": [
+    0.6761602647334461,
+    0.6807883550213778,
+    0.6800816617126,
+    0.679282169655471
+  ]
+}

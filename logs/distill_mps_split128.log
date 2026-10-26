@@ -1,0 +1,5 @@
+split128_a0.75_s81 epoch 1 loss 0.256308 744s
+split128_a0.75_s81 epoch 2 loss 0.247585 766s
+split128_a0.75_s81 epoch 3 loss 0.24531 750s
+split128_a0.75_s81 epoch 4 loss 0.242049 3213s
+split128_a0.75_s81 epoch 5 loss 0.241058 3895s

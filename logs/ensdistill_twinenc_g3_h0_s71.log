@@ -1,0 +1,9 @@
+cached teacher teacher3_h0_v.npy 937
+cached teacher teacher3_h0_t.npy 2000
+cached teacher teacher3_h0_x4000.npy 4000
+scratchtwinenc96g3_a0.75_t6000_p6000_lr0.001_s71_h0 epoch 0 held-out scored WP -0.003223
+scratchtwinenc96g3_a0.75_t6000_p6000_lr0.001_s71_h0 epoch 1 loss 0.349812 held-out scored WP 0.680719 4405s
+scratchtwinenc96g3_a0.75_t6000_p6000_lr0.001_s71_h0 epoch 2 loss 0.334744 held-out scored WP 0.682988 16060s
+scratchtwinenc96g3_a0.75_t6000_p6000_lr0.001_s71_h0 epoch 3 loss 0.331306 held-out scored WP 0.682244 37258s
+scratchtwinenc96g3_a0.75_t6000_p6000_lr0.001_s71_h0 epoch 4 loss 0.323163 held-out scored WP 0.686796 11863s
+scratchtwinenc96g3_a0.75_t6000_p6000_lr0.001_s71_h0 epoch 5 loss 0.321511 held-out scored WP 0.688114 21304s

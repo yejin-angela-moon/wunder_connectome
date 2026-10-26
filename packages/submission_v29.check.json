@@ -1,0 +1,23 @@
+{
+  "members": [
+    "research/cache/ensdistill/scratch128g2_a0.75_t6000_p6000_lr0.0002_s75_cont_all_e1.pt+research/cache/ensdistill/scratch128g2_a0.75_t6000_p6000_lr0.0002_s75_cont_all_e2.pt+research/cache/ensdistill/scratch128g2_a0.75_t6000_p6000_lr0.0002_s75_cont_all_e3.pt@0.1",
+    "research/cache/ensdistill/scratch128g2_a0.75_t6000_p6000_lr0.0002_s76_cont_all_e1.pt+research/cache/ensdistill/scratch128g2_a0.75_t6000_p6000_lr0.0002_s76_cont_all_e2.pt+research/cache/ensdistill/scratch128g2_a0.75_t6000_p6000_lr0.0002_s76_cont_all_e3.pt@0.1",
+    "research/cache/ensdistill/scratch128g2_a0.75_t6000_p6000_lr0.0002_s77_cont_all_e1.pt+research/cache/ensdistill/scratch128g2_a0.75_t6000_p6000_lr0.0002_s77_cont_all_e2.pt+research/cache/ensdistill/scratch128g2_a0.75_t6000_p6000_lr0.0002_s77_cont_all_e3.pt@0.1",
+    "research/cache/ensdistill/scratch128g2_a0.75_t6000_p6000_lr0.0002_s78_cont_all_e1.pt+research/cache/ensdistill/scratch128g2_a0.75_t6000_p6000_lr0.0002_s78_cont_all_e2.pt+research/cache/ensdistill/scratch128g2_a0.75_t6000_p6000_lr0.0002_s78_cont_all_e3.pt@0.1",
+    "research/cache/ensdistill/scratch128g2_a0.75_t6000_p6000_lr0.0015_s71_aw0.0001_oc_cl1_h1_e8.pt@0.1",
+    "research/cache/ensdistill/scratch128g2_a0.75_t6000_p6000_lr0.0015_s72_aw0.0001_oc_cl1_h0_e8.pt@0.1",
+    "research/cache/ensdistill/scratch192L2g2_a0.75_t6000_p6000_lr0.0015_s71_aw0.0001_oc_cl1_do0.1_h0_e8.pt@0.2",
+    "research/cache/maskft/split128_a0.75_s81_u0.06_lr0.0002_s7_tb_all_e2.pt+research/cache/maskft/split128_a0.75_s81_u0.06_lr0.0002_s7_tb_all_e3.pt@0.2"
+  ],
+  "zip_bytes": 3954255,
+  "numpy": {
+    "max_abs_difference_vs_torch": 4.291534424494259e-07,
+    "guard_member_difference": 8.344650268554688e-07,
+    "seconds_per_20k_rows_this_host": 1.2671969170914963
+  },
+  "kernel": {
+    "max_abs_difference_vs_torch": 0.0006603419780730757,
+    "guard_member_difference": 0.0010848641395568848,
+    "seconds_per_20k_rows_this_host": 0.8859060419490561
+  }
+}

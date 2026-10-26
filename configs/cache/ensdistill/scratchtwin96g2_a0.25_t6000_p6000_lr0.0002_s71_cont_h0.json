@@ -1,0 +1,52 @@
+{
+  "args": {
+    "half": 0,
+    "student": "scratchtwin96",
+    "swa": [
+      2,
+      3
+    ],
+    "alpha": 0.25,
+    "train_per_epoch": 6000,
+    "unscored": 0.06,
+    "epochs": 3,
+    "lr": 0.0002,
+    "seed": 71,
+    "pool": 6000,
+    "scratch": 96,
+    "device": "mps",
+    "threads": 0,
+    "gen": 2,
+    "init": [
+      "cache/ensdistill/scratchtwin96g2_a0.75_t6000_p6000_lr0.001_s71_h0_e5.pt"
+    ],
+    "valid_repeat": 1,
+    "suffix": "",
+    "epoch_lrs": [
+      0.0001,
+      0.0001,
+      3e-05
+    ],
+    "ema": [],
+    "cell": "twin",
+    "causal": 0.0,
+    "layers": 1,
+    "chunk": 512,
+    "batch": 32,
+    "adamw": 0.0,
+    "onecycle": false,
+    "clip": 0.0,
+    "dropout": 0.0,
+    "chrono": 0.0,
+    "random_offset": false,
+    "alpha_train": -1.0,
+    "selfcheck": false
+  },
+  "history": [
+    0.6861849656758227,
+    0.6867825474552861,
+    0.6864029018197029,
+    0.6856570629996338
+  ],
+  "ema_history": {}
+}

@@ -1,0 +1,6 @@
+scratchtriple96g2_a0.75_t6000_p6000_lr0.001_s71_h1 epoch 0 held-out scored WP -0.156335
+scratchtriple96g2_a0.75_t6000_p6000_lr0.001_s71_h1 epoch 1 loss 0.361284 held-out scored WP 0.677783 2372s
+scratchtriple96g2_a0.75_t6000_p6000_lr0.001_s71_h1 epoch 2 loss 0.346088 held-out scored WP 0.682565 2428s
+scratchtriple96g2_a0.75_t6000_p6000_lr0.001_s71_h1 epoch 3 loss 0.343668 held-out scored WP 0.680486 2386s
+scratchtriple96g2_a0.75_t6000_p6000_lr0.001_s71_h1 epoch 4 loss 0.336097 held-out scored WP 0.682545 2431s
+scratchtriple96g2_a0.75_t6000_p6000_lr0.001_s71_h1 epoch 5 loss 0.334157 held-out scored WP 0.682411 2422s

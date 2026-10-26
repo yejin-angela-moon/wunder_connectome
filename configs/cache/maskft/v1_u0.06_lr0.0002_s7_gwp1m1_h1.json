@@ -1,0 +1,31 @@
+{
+  "args": {
+    "command": "run",
+    "members": null,
+    "swa": null,
+    "freeze_recurrent": false,
+    "l2sp": 0.0,
+    "decay_after": 0,
+    "decay_lr": 5e-05,
+    "model": "v1",
+    "half": 1,
+    "unscored": 0.06,
+    "epochs": 3,
+    "lr": 0.0002,
+    "seed": 7,
+    "chunk": 512,
+    "target_balance": false,
+    "corr": 0.0,
+    "gwp": 1.0,
+    "gwp_mse": 1.0,
+    "event_aux": 0.0,
+    "causal_conv": 0,
+    "interval_mlp": 0
+  },
+  "held_out_scored_wp_by_epoch": [
+    0.6750236845329318,
+    0.6789850092623289,
+    0.67782912207266,
+    0.677885512628019
+  ]
+}

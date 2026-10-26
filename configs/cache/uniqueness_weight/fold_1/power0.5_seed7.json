@@ -1,0 +1,55 @@
+{
+  "power": 0.5,
+  "fold": 1,
+  "seed": 7,
+  "epochs": 5,
+  "control": 0.4059800668640485,
+  "history": [
+    {
+      "t0": 0.0023460186156454275,
+      "t1": 0.043533835423800384,
+      "weighted_pearson": 0.022939927019722906,
+      "selected_rows": 10189312,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.3843975232598289,
+      "t1": 0.387142243352285,
+      "weighted_pearson": 0.38576988330605694,
+      "selected_rows": 10189312,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.40351421946995375,
+      "t1": 0.39687100420916366,
+      "weighted_pearson": 0.4001926118395587,
+      "selected_rows": 10189312,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.39515159538138817,
+      "t1": 0.4043308882146232,
+      "weighted_pearson": 0.3997412417980057,
+      "selected_rows": 10189312,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.3902892607319308,
+      "t1": 0.39833395468903915,
+      "weighted_pearson": 0.394311607710485,
+      "selected_rows": 10189312,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.40898070374155304,
+      "t1": 0.4040500682108235,
+      "weighted_pearson": 0.4065153859761883,
+      "selected_rows": 10189312,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    }
+  ],
+  "fixed": 0.4065153859761883,
+  "fixed_gain": 0.000535319112139776,
+  "passes_gate": false,
+  "interpretation": "inverse target persistence-run proxy; exact label spans unavailable"
+}

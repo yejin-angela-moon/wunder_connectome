@@ -1,0 +1,57 @@
+{
+  "args": {
+    "epochs": 5,
+    "seed": 7,
+    "device": "cpu",
+    "selfcheck": false
+  },
+  "control": 0.3160643776683788,
+  "history": [
+    {
+      "t0": -0.13660196789829845,
+      "t1": 0.013919481839604812,
+      "weighted_pearson": -0.06134124302934682,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.3303759928936375,
+      "t1": 0.2173593728698044,
+      "weighted_pearson": 0.2738676828817209,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.30680485931182855,
+      "t1": 0.23542366410318052,
+      "weighted_pearson": 0.2711142617075045,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.3711501635696709,
+      "t1": 0.24839970231275313,
+      "weighted_pearson": 0.309774932941212,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.37077810113765663,
+      "t1": 0.2527406779847134,
+      "weighted_pearson": 0.311759389561185,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.38343986702646987,
+      "t1": 0.2625360528760532,
+      "weighted_pearson": 0.3229879599512615,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    }
+  ],
+  "best": 0.3229879599512615,
+  "gain": 0.006923582282882701,
+  "passes_gate": true,
+  "causality": "context uses rows 0..98 only; first scored row is 99"
+}

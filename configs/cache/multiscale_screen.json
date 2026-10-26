@@ -1,0 +1,51 @@
+{
+  "device": "cpu",
+  "control": 0.316064,
+  "history": [
+    {
+      "t0": 0.048896479060353534,
+      "t1": 0.026491277406337093,
+      "weighted_pearson": 0.037693878233345315,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.33048570280485645,
+      "t1": 0.2596661443182802,
+      "weighted_pearson": 0.2950759235615683,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.32074364721959026,
+      "t1": 0.27046271566649954,
+      "weighted_pearson": 0.29560318144304487,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.37831854944246174,
+      "t1": 0.27776102260294844,
+      "weighted_pearson": 0.3280397860227051,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.37161128325993564,
+      "t1": 0.271571422074979,
+      "weighted_pearson": 0.3215913526674573,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.3708516110342318,
+      "t1": 0.26977855505539244,
+      "weighted_pearson": 0.32031508304481215,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    }
+  ],
+  "best": 0.3280397860227051,
+  "gain": 0.011975786022705104,
+  "passes_gate": true
+}

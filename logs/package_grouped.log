@@ -1,0 +1,11 @@
+{
+  "members": [
+    "cache/maskft/v1_u0.06_lr0.0002_s7_all_e2.pt+cache/maskft/v1_u0.06_lr0.0002_s7_all_e3.pt",
+    "cache/maskft/gru128_a0.5_s57_u0.06_lr0.0002_s7_all_e2.pt+cache/maskft/gru128_a0.5_s57_u0.06_lr0.0002_s7_all_e3.pt",
+    "cache/maskft/gru192_a0.5_s57_u0.06_lr0.0002_s7_all_e2.pt+cache/maskft/gru192_a0.5_s57_u0.06_lr0.0002_s7_all_e3.pt",
+    "cache/maskft/gru128_a0.75_s58_u0.06_lr0.0002_s7_all_e2.pt+cache/maskft/gru128_a0.75_s58_u0.06_lr0.0002_s7_all_e3.pt"
+  ],
+  "zip_bytes": 1575588,
+  "max_abs_difference_vs_torch": 5.960464477539062e-07,
+  "seconds_per_20k_rows_this_host": 0.9500209579709917
+}

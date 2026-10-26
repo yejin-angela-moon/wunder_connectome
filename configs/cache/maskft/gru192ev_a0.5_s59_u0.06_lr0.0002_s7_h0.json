@@ -1,0 +1,19 @@
+{
+  "args": {
+    "command": "run",
+    "members": null,
+    "swa": null,
+    "model": "gru192ev_a0.5_s59",
+    "half": 0,
+    "unscored": 0.06,
+    "epochs": 3,
+    "lr": 0.0002,
+    "seed": 7
+  },
+  "held_out_scored_wp_by_epoch": [
+    0.6766976169324532,
+    0.679528080897271,
+    0.6802444046850047,
+    0.681077474835395
+  ]
+}

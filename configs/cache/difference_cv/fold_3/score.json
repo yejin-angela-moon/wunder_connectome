@@ -1,0 +1,43 @@
+{
+  "scores": {
+    "0.0": {
+      "t0": 0.41463337871831946,
+      "t1": 0.4104973885610468,
+      "weighted_pearson": 0.4125653836396831,
+      "selected_rows": 10189312,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "0.25": {
+      "t0": 0.41686658436472135,
+      "t1": 0.4124568950734073,
+      "weighted_pearson": 0.41466173971906434,
+      "selected_rows": 10189312,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "0.5": {
+      "t0": 0.4173134511559997,
+      "t1": 0.41282536094040373,
+      "weighted_pearson": 0.41506940604820175,
+      "selected_rows": 10189312,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "0.75": {
+      "t0": 0.4159697657856803,
+      "t1": 0.4115685543525282,
+      "weighted_pearson": 0.41376916006910425,
+      "selected_rows": 10189312,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "1.0": {
+      "t0": 0.4129003484854641,
+      "t1": 0.40870951567641756,
+      "weighted_pearson": 0.4108049320809408,
+      "selected_rows": 10189312,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    }
+  },
+  "baseline": 0.4125653836396831,
+  "frozen": 0.41506940604820175,
+  "frozen_gain": 0.002504022408518658,
+  "passes_gate": true
+}

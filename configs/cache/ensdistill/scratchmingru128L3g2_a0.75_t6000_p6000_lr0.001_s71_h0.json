@@ -1,0 +1,40 @@
+{
+  "args": {
+    "half": 0,
+    "student": "scratchmingru128L3",
+    "swa": [
+      2,
+      3
+    ],
+    "alpha": 0.75,
+    "train_per_epoch": 6000,
+    "unscored": 0.06,
+    "epochs": 5,
+    "lr": 0.001,
+    "seed": 71,
+    "pool": 6000,
+    "scratch": 128,
+    "device": "mps",
+    "threads": 0,
+    "gen": 2,
+    "init": [],
+    "valid_repeat": 1,
+    "suffix": "",
+    "epoch_lrs": [],
+    "ema": [],
+    "cell": "mingru",
+    "layers": 3,
+    "chunk": 512,
+    "batch": 32,
+    "selfcheck": false
+  },
+  "history": [
+    0.03398551027615822,
+    0.6774095581404477,
+    0.678506577041361,
+    0.6790074128752709,
+    0.6837195972211748,
+    0.6845967351794365
+  ],
+  "ema_history": {}
+}

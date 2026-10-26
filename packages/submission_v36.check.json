@@ -1,0 +1,21 @@
+{
+  "members": [
+    "research/cache/ensdistill/scratchtwin96g2_a0.75_t6000_p6000_lr0.0002_s71_cont_all_e1.pt+research/cache/ensdistill/scratchtwin96g2_a0.75_t6000_p6000_lr0.0002_s71_cont_all_e2.pt+research/cache/ensdistill/scratchtwin96g2_a0.75_t6000_p6000_lr0.0002_s71_cont_all_e3.pt@1",
+    "research/cache/ensdistill/scratchtwin96g2_a0.75_t6000_p6000_lr0.0002_s72_cont_all_e1.pt+research/cache/ensdistill/scratchtwin96g2_a0.75_t6000_p6000_lr0.0002_s72_cont_all_e2.pt+research/cache/ensdistill/scratchtwin96g2_a0.75_t6000_p6000_lr0.0002_s72_cont_all_e3.pt@1",
+    "research/cache/ensdistill/scratchtwin96g2_a0.75_t6000_p6000_lr0.0002_s73_cont_all_e1.pt+research/cache/ensdistill/scratchtwin96g2_a0.75_t6000_p6000_lr0.0002_s73_cont_all_e2.pt+research/cache/ensdistill/scratchtwin96g2_a0.75_t6000_p6000_lr0.0002_s73_cont_all_e3.pt@1",
+    "research/cache/ensdistill/scratchtwin96g2_a0.75_t6000_p6000_lr0.0002_s74_cont_all_e1.pt+research/cache/ensdistill/scratchtwin96g2_a0.75_t6000_p6000_lr0.0002_s74_cont_all_e2.pt+research/cache/ensdistill/scratchtwin96g2_a0.75_t6000_p6000_lr0.0002_s74_cont_all_e3.pt@1",
+    "research/cache/ensdistill/scratchtwin96g2_a0.75_t6000_p6000_lr0.0002_s75_cont_all_e1.pt+research/cache/ensdistill/scratchtwin96g2_a0.75_t6000_p6000_lr0.0002_s75_cont_all_e2.pt+research/cache/ensdistill/scratchtwin96g2_a0.75_t6000_p6000_lr0.0002_s75_cont_all_e3.pt@1",
+    "research/cache/ensdistill/scratchtwin96g2_a0.75_t6000_p6000_lr0.0002_s76_cont_all_e1.pt+research/cache/ensdistill/scratchtwin96g2_a0.75_t6000_p6000_lr0.0002_s76_cont_all_e2.pt+research/cache/ensdistill/scratchtwin96g2_a0.75_t6000_p6000_lr0.0002_s76_cont_all_e3.pt@1"
+  ],
+  "zip_bytes": 2950573,
+  "numpy": {
+    "max_abs_difference_vs_torch": 4.5696894335200966e-07,
+    "guard_member_difference": null,
+    "seconds_per_20k_rows_this_host": 1.969383415998891
+  },
+  "kernel": {
+    "max_abs_difference_vs_torch": 0.00033233563105264374,
+    "guard_member_difference": null,
+    "seconds_per_20k_rows_this_host": 0.6807822911068797
+  }
+}

@@ -1,0 +1,4 @@
+sgru128_s101 epoch 1 loss 0.276649 722s
+sgru128_s101 epoch 2 loss 0.270557 755s
+sgru128_s101 epoch 3 loss 0.268886 738s
+sgru128_s101 epoch 4 loss 0.263541 748s

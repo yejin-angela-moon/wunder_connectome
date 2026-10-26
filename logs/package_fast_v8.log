@@ -1,0 +1,24 @@
+/private/var/folders/pz/0ddtq3xx08l2sp5khvv1sm440000gn/T/tmpj1vki7m9/solution.py:54: RuntimeWarning: divide by zero encountered in matmul
+  bias = b_ih.reshape(-1) - scaled[:, :112] @ mean
+/private/var/folders/pz/0ddtq3xx08l2sp5khvv1sm440000gn/T/tmpj1vki7m9/solution.py:54: RuntimeWarning: overflow encountered in matmul
+  bias = b_ih.reshape(-1) - scaled[:, :112] @ mean
+/private/var/folders/pz/0ddtq3xx08l2sp5khvv1sm440000gn/T/tmpj1vki7m9/solution.py:54: RuntimeWarning: invalid value encountered in matmul
+  bias = b_ih.reshape(-1) - scaled[:, :112] @ mean
+/var/folders/pz/0ddtq3xx08l2sp5khvv1sm440000gn/T/tmpj1vki7m9/solution.py:54: RuntimeWarning: divide by zero encountered in matmul
+  bias = b_ih.reshape(-1) - scaled[:, :112] @ mean
+/var/folders/pz/0ddtq3xx08l2sp5khvv1sm440000gn/T/tmpj1vki7m9/solution.py:54: RuntimeWarning: overflow encountered in matmul
+  bias = b_ih.reshape(-1) - scaled[:, :112] @ mean
+/var/folders/pz/0ddtq3xx08l2sp5khvv1sm440000gn/T/tmpj1vki7m9/solution.py:54: RuntimeWarning: invalid value encountered in matmul
+  bias = b_ih.reshape(-1) - scaled[:, :112] @ mean
+{
+  "members": [
+    "cache/maskft/v1_u0.06_lr0.0002_s7_all_e2.pt+cache/maskft/v1_u0.06_lr0.0002_s7_all_e3.pt",
+    "cache/maskft/gru128_a0.5_s57_u0.06_lr0.0002_s7_all_e2.pt+cache/maskft/gru128_a0.5_s57_u0.06_lr0.0002_s7_all_e3.pt",
+    "cache/maskft/gru192_a0.5_s57_u0.06_lr0.0002_s7_all_e2.pt+cache/maskft/gru192_a0.5_s57_u0.06_lr0.0002_s7_all_e3.pt",
+    "cache/maskft/gru128_a0.75_s58_u0.06_lr0.0002_s7_all_e2.pt+cache/maskft/gru128_a0.75_s58_u0.06_lr0.0002_s7_all_e3.pt",
+    "cache/maskft/gru192ev_a0.5_s59_u0.06_lr0.0002_s7_all_e2.pt+cache/maskft/gru192ev_a0.5_s59_u0.06_lr0.0002_s7_all_e3.pt"
+  ],
+  "zip_bytes": 2341213,
+  "max_abs_difference_vs_torch": 5.960464477539062e-07,
+  "seconds_per_20k_rows_this_host": 0.7331081250013085
+}

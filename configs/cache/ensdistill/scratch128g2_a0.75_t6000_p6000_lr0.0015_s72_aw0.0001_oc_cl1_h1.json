@@ -1,0 +1,47 @@
+{
+  "args": {
+    "half": 1,
+    "student": "scratch128",
+    "swa": [
+      2,
+      3
+    ],
+    "alpha": 0.75,
+    "train_per_epoch": 6000,
+    "unscored": 0.06,
+    "epochs": 8,
+    "lr": 0.0015,
+    "seed": 72,
+    "pool": 6000,
+    "scratch": 128,
+    "device": "mps",
+    "threads": 0,
+    "gen": 2,
+    "init": [],
+    "valid_repeat": 1,
+    "suffix": "",
+    "epoch_lrs": [],
+    "ema": [],
+    "cell": "gru",
+    "layers": 1,
+    "chunk": 512,
+    "batch": 32,
+    "adamw": 0.0001,
+    "onecycle": true,
+    "clip": 1.0,
+    "dropout": 0.0,
+    "selfcheck": false
+  },
+  "history": [
+    0.06755501656022096,
+    0.6788758955070521,
+    0.67864364063617,
+    0.6805915068853696,
+    0.6779817612623138,
+    0.681315573369198,
+    0.6819721211035379,
+    0.6824812590369185,
+    0.6823962085748034
+  ],
+  "ema_history": {}
+}

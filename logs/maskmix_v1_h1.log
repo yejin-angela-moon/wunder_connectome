@@ -1,0 +1,9 @@
+mask net epoch 1 bce 0.25132
+mask net epoch 2 bce 0.20827
+mask net epoch 3 bce 0.19521
+mask net held-out AUC 0.9052 mean q 0.1064 scored rate 0.0947
+v1_u0.06_lr0.0002_t2808_s7_h1 epoch 0 held-out scored WP 0.675024
+v1_u0.06_lr0.0002_t2808_s7_h1 epoch 1 loss 1.313529 held-out scored WP 0.677192 414s
+v1_u0.06_lr0.0002_t2808_s7_h1 epoch 2 loss 1.302024 held-out scored WP 0.678054 743s
+v1_u0.06_lr0.0002_t2808_s7_h1 epoch 3 loss 1.302045 held-out scored WP 0.67777 460s
+v1_u0.06_lr0.0002_t2808_s7_h1 epoch 4 loss 1.301598 held-out scored WP 0.677928 426s

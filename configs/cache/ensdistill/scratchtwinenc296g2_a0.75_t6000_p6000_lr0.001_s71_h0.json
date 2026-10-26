@@ -1,0 +1,48 @@
+{
+  "args": {
+    "half": 0,
+    "student": "scratchtwinenc296",
+    "swa": [
+      2,
+      3
+    ],
+    "alpha": 0.75,
+    "train_per_epoch": 6000,
+    "unscored": 0.06,
+    "epochs": 5,
+    "lr": 0.001,
+    "seed": 71,
+    "pool": 6000,
+    "scratch": 96,
+    "device": "mps",
+    "threads": 0,
+    "gen": 2,
+    "init": [],
+    "valid_repeat": 1,
+    "suffix": "",
+    "epoch_lrs": [],
+    "ema": [],
+    "cell": "twinenc2",
+    "causal": 0.0,
+    "layers": 1,
+    "chunk": 512,
+    "batch": 32,
+    "adamw": 0.0,
+    "onecycle": false,
+    "clip": 0.0,
+    "dropout": 0.0,
+    "chrono": 0.0,
+    "random_offset": false,
+    "alpha_train": -1.0,
+    "selfcheck": false
+  },
+  "history": [
+    -0.06671902472046277,
+    0.6805370854469112,
+    0.6829050211762551,
+    0.6824082229075774,
+    0.6860309834852665,
+    0.6871405581318006
+  ],
+  "ema_history": {}
+}

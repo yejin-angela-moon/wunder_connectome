@@ -1,0 +1,17 @@
+{
+  "args": {
+    "half": -1,
+    "student": "gru128_a0.75_s58",
+    "swa": [
+      2,
+      3
+    ],
+    "alpha": 0.5,
+    "train_per_epoch": 1872,
+    "unscored": 0.06,
+    "epochs": 4,
+    "lr": 0.0002,
+    "seed": 7
+  },
+  "history": []
+}

@@ -1,0 +1,21 @@
+{
+  "args": {
+    "command": "run",
+    "members": null,
+    "swa": null,
+    "freeze_recurrent": false,
+    "l2sp": 0.01,
+    "model": "gru192_a0.5_s57",
+    "half": 1,
+    "unscored": 0.06,
+    "epochs": 3,
+    "lr": 0.0002,
+    "seed": 7
+  },
+  "held_out_scored_wp_by_epoch": [
+    0.676696367094652,
+    0.6787096939889861,
+    0.6779616333509365,
+    0.6792556424290345
+  ]
+}

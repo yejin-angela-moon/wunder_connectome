@@ -1,0 +1,16 @@
+{
+  "reconstructed_lag": {
+    "t0": 0.2564234618569971,
+    "t1": 0.15358888535389198,
+    "weighted_pearson": 0.20500617360544454,
+    "selected_rows": 636832,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  },
+  "transition": {
+    "t0": 0.27222472710571305,
+    "t1": 0.19428399150601147,
+    "weighted_pearson": 0.23325435930586225,
+    "selected_rows": 636832,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  }
+}

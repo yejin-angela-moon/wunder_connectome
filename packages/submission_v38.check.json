@@ -1,0 +1,21 @@
+{
+  "members": [
+    "research/cache/ensdistill/scratchtwinenc96g2_a0.75_t6000_p6000_lr0.0002_s71_cont_all_e1.pt+research/cache/ensdistill/scratchtwinenc96g2_a0.75_t6000_p6000_lr0.0002_s71_cont_all_e2.pt+research/cache/ensdistill/scratchtwinenc96g2_a0.75_t6000_p6000_lr0.0002_s71_cont_all_e3.pt@1",
+    "research/cache/ensdistill/scratchtwinenc96g2_a0.75_t6000_p6000_lr0.0002_s72_cont_all_e1.pt+research/cache/ensdistill/scratchtwinenc96g2_a0.75_t6000_p6000_lr0.0002_s72_cont_all_e2.pt+research/cache/ensdistill/scratchtwinenc96g2_a0.75_t6000_p6000_lr0.0002_s72_cont_all_e3.pt@1",
+    "research/cache/ensdistill/scratchtwinenc96g2_a0.75_t6000_p6000_lr0.0002_s73_cont_all_e1.pt+research/cache/ensdistill/scratchtwinenc96g2_a0.75_t6000_p6000_lr0.0002_s73_cont_all_e2.pt+research/cache/ensdistill/scratchtwinenc96g2_a0.75_t6000_p6000_lr0.0002_s73_cont_all_e3.pt@1",
+    "research/cache/ensdistill/scratchtwinenc96g2_a0.75_t6000_p6000_lr0.0002_s74_cont_all_e1.pt+research/cache/ensdistill/scratchtwinenc96g2_a0.75_t6000_p6000_lr0.0002_s74_cont_all_e2.pt+research/cache/ensdistill/scratchtwinenc96g2_a0.75_t6000_p6000_lr0.0002_s74_cont_all_e3.pt@1",
+    "research/cache/ensdistill/scratchtwinenc96g2_a0.75_t6000_p6000_lr0.0002_s75_cont_all_e1.pt+research/cache/ensdistill/scratchtwinenc96g2_a0.75_t6000_p6000_lr0.0002_s75_cont_all_e2.pt+research/cache/ensdistill/scratchtwinenc96g2_a0.75_t6000_p6000_lr0.0002_s75_cont_all_e3.pt@1",
+    "research/cache/ensdistill/scratchtwinenc96g2_a0.75_t6000_p6000_lr0.0002_s76_cont_all_e1.pt+research/cache/ensdistill/scratchtwinenc96g2_a0.75_t6000_p6000_lr0.0002_s76_cont_all_e2.pt+research/cache/ensdistill/scratchtwinenc96g2_a0.75_t6000_p6000_lr0.0002_s76_cont_all_e3.pt@1"
+  ],
+  "zip_bytes": 3765900,
+  "numpy": {
+    "max_abs_difference_vs_torch": 3.9736429835457443e-07,
+    "guard_member_difference": null,
+    "seconds_per_20k_rows_this_host": 2.764116542181
+  },
+  "kernel": {
+    "max_abs_difference_vs_torch": 0.0005202591419219971,
+    "guard_member_difference": null,
+    "seconds_per_20k_rows_this_host": 0.8493805420584977
+  }
+}

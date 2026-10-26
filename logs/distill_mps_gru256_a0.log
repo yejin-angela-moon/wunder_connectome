@@ -1,0 +1,5 @@
+gru256_a0_s111 epoch 1 loss 0.994216 759s
+gru256_a0_s111 epoch 2 loss 0.970127 783s
+gru256_a0_s111 epoch 3 loss 0.962254 771s
+gru256_a0_s111 epoch 4 loss 0.93873 751s
+gru256_a0_s111 epoch 5 loss 0.924358 721s

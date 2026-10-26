@@ -1,0 +1,84 @@
+{
+  "gains": [
+    [
+      0.25,
+      0.0
+    ],
+    [
+      0.5,
+      0.0
+    ],
+    [
+      1.0,
+      0.0
+    ],
+    [
+      0.25,
+      0.02
+    ],
+    [
+      0.5,
+      0.02
+    ],
+    [
+      0.5,
+      0.1
+    ]
+  ],
+  "scores": {
+    "raw": {
+      "t0": 0.3727137552234904,
+      "t1": 0.25941500011331836,
+      "weighted_pearson": 0.31606437766840434,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "e0.25_r0": {
+      "t0": 0.2601656338547686,
+      "t1": 0.16297100199762793,
+      "weighted_pearson": 0.21156831792619826,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "e0.5_r0": {
+      "t0": 0.29901803469723,
+      "t1": 0.19150803166397012,
+      "weighted_pearson": 0.24526303318060005,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "e1_r0": {
+      "t0": 0.306685365827398,
+      "t1": 0.19829213531239598,
+      "weighted_pearson": 0.252488750569897,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "e0.25_r0.02": {
+      "t0": 0.3075960992801496,
+      "t1": 0.17421261541171645,
+      "weighted_pearson": 0.24090435734593302,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "e0.5_r0.02": {
+      "t0": 0.3399857172486882,
+      "t1": 0.2101904993892486,
+      "weighted_pearson": 0.2750881083189684,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "e0.5_r0.1": {
+      "t0": 0.35475660467401426,
+      "t1": 0.23233803818322601,
+      "weighted_pearson": 0.29354732142862017,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    }
+  },
+  "baseline": 0.31606437766840434,
+  "best": "raw",
+  "best_score": 0.31606437766840434,
+  "gain": 0.0,
+  "passes_gate": false
+}

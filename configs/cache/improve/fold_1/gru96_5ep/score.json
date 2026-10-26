@@ -1,0 +1,7 @@
+{
+  "t0": 0.40151609922503306,
+  "t1": 0.40681190346875284,
+  "weighted_pearson": 0.40416400134689295,
+  "selected_rows": 10189312,
+  "aggregation": "global clipped Weighted Pearson over all selected rows"
+}

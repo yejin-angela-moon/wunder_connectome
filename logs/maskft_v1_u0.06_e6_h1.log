@@ -1,0 +1,7 @@
+v1_u0.06_lr0.0002_s7_h1 epoch 0 held-out scored WP 0.675024
+v1_u0.06_lr0.0002_s7_h1 epoch 1 loss 0.991737 held-out scored WP 0.678562
+v1_u0.06_lr0.0002_s7_h1 epoch 2 loss 0.975591 held-out scored WP 0.678274
+v1_u0.06_lr0.0002_s7_h1 epoch 3 loss 0.968479 held-out scored WP 0.678396
+v1_u0.06_lr0.0002_s7_h1 epoch 4 loss 0.957473 held-out scored WP 0.678445
+v1_u0.06_lr0.0002_s7_h1 epoch 5 loss 0.948427 held-out scored WP 0.677628
+v1_u0.06_lr0.0002_s7_h1 epoch 6 loss 0.939796 held-out scored WP 0.674729

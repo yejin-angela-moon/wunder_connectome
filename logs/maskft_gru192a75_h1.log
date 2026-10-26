@@ -1,0 +1,4 @@
+gru192_a0.75_s60_u0.06_lr0.0002_s7_h1 epoch 0 held-out scored WP 0.675389
+gru192_a0.75_s60_u0.06_lr0.0002_s7_h1 epoch 1 loss 0.98809 held-out scored WP 0.680896
+gru192_a0.75_s60_u0.06_lr0.0002_s7_h1 epoch 2 loss 0.967528 held-out scored WP 0.678883
+gru192_a0.75_s60_u0.06_lr0.0002_s7_h1 epoch 3 loss 0.953318 held-out scored WP 0.67814

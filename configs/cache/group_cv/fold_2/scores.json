@@ -1,0 +1,209 @@
+{
+  "ridge": {
+    "global": {
+      "all": {
+        "t0": 0.3621849164359886,
+        "t1": 0.36445958965382214,
+        "weighted_pearson": 0.3633222530449054,
+        "selected_rows": 10189312,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "random20": {
+        "t0": 0.3613343054296412,
+        "t1": 0.3648251907100156,
+        "weighted_pearson": 0.3630797480698284,
+        "selected_rows": 2036086,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      }
+    },
+    "sequence_wp_quantiles": [
+      0.07486264416652058,
+      0.24034157010027557,
+      0.4887761266375761
+    ]
+  },
+  "ridge_lag": {
+    "global": {
+      "all": {
+        "t0": 0.367893067569453,
+        "t1": 0.37100188273974677,
+        "weighted_pearson": 0.36944747515459986,
+        "selected_rows": 10189312,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "random20": {
+        "t0": 0.3672366014806219,
+        "t1": 0.37122262770943115,
+        "weighted_pearson": 0.36922961459502657,
+        "selected_rows": 2036086,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      }
+    },
+    "sequence_wp_quantiles": [
+      0.08072707833448836,
+      0.2513900464703976,
+      0.4958503492514403
+    ]
+  },
+  "mlp": {
+    "global": {
+      "all": {
+        "t0": 0.3391754454038466,
+        "t1": 0.3470475144829622,
+        "weighted_pearson": 0.3431114799434044,
+        "selected_rows": 10189312,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "random20": {
+        "t0": 0.33849698243708126,
+        "t1": 0.34727887164528704,
+        "weighted_pearson": 0.34288792704118415,
+        "selected_rows": 2036086,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      }
+    },
+    "sequence_wp_quantiles": [
+      0.0732342646974108,
+      0.22503074636058829,
+      0.45715975923636726
+    ]
+  },
+  "mlp_sample8": {
+    "global": {
+      "all": {
+        "t0": 0.3386829533018602,
+        "t1": 0.3475470405339194,
+        "weighted_pearson": 0.3431149969178898,
+        "selected_rows": 10189312,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "random20": {
+        "t0": 0.33800303859352426,
+        "t1": 0.34781291898914063,
+        "weighted_pearson": 0.34290797879133245,
+        "selected_rows": 2036086,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      }
+    },
+    "sequence_wp_quantiles": [
+      0.07358256073595093,
+      0.222199569563786,
+      0.4565429218214616
+    ]
+  },
+  "mlp_norm": {
+    "global": {
+      "all": {
+        "t0": 0.347875664339485,
+        "t1": 0.36386780110428124,
+        "weighted_pearson": 0.3558717327218831,
+        "selected_rows": 10189312,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "random20": {
+        "t0": 0.34747036938693665,
+        "t1": 0.36425490763100116,
+        "weighted_pearson": 0.35586263850896893,
+        "selected_rows": 2036086,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      }
+    },
+    "sequence_wp_quantiles": [
+      0.06303521101557191,
+      0.23427878698355542,
+      0.47085089072505537
+    ]
+  },
+  "gru_epoch1": {
+    "global": {
+      "all": {
+        "t0": 0.3924793532511452,
+        "t1": 0.38227937176348387,
+        "weighted_pearson": 0.38737936250731453,
+        "selected_rows": 10189312,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "random20": {
+        "t0": 0.39229222813337106,
+        "t1": 0.3825078746400849,
+        "weighted_pearson": 0.38740005138672795,
+        "selected_rows": 2036086,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      }
+    },
+    "sequence_wp_quantiles": [
+      0.07063701845310905,
+      0.252508958633589,
+      0.4855249576056995
+    ]
+  },
+  "gru_epoch2": {
+    "global": {
+      "all": {
+        "t0": 0.4027090654660964,
+        "t1": 0.40870747186808903,
+        "weighted_pearson": 0.40570826866709275,
+        "selected_rows": 10189312,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "random20": {
+        "t0": 0.40277895518562923,
+        "t1": 0.40871943056467064,
+        "weighted_pearson": 0.40574919287514993,
+        "selected_rows": 2036086,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      }
+    },
+    "sequence_wp_quantiles": [
+      0.11917011634811385,
+      0.28136336382886806,
+      0.5176430301275112
+    ]
+  },
+  "gru": {
+    "global": {
+      "all": {
+        "t0": 0.4110346741676764,
+        "t1": 0.40992049557550203,
+        "weighted_pearson": 0.41047758487158925,
+        "selected_rows": 10189312,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "random20": {
+        "t0": 0.41094245263318185,
+        "t1": 0.40978525767559987,
+        "weighted_pearson": 0.4103638551543909,
+        "selected_rows": 2036086,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      }
+    },
+    "sequence_wp_quantiles": [
+      0.12831696008673757,
+      0.2972877273178067,
+      0.5220373488210444
+    ]
+  },
+  "gru96": {
+    "global": {
+      "all": {
+        "t0": 0.4207963803311634,
+        "t1": 0.4149062583531087,
+        "weighted_pearson": 0.41785131934213604,
+        "selected_rows": 10189312,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "random20": {
+        "t0": 0.4202763721500581,
+        "t1": 0.4145260156897517,
+        "weighted_pearson": 0.41740119391990493,
+        "selected_rows": 2036086,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      }
+    },
+    "sequence_wp_quantiles": [
+      0.12847673969604873,
+      0.30960255470639275,
+      0.5237268676924682
+    ]
+  }
+}

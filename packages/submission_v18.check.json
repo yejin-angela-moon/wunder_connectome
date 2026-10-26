@@ -1,0 +1,12 @@
+{
+  "members": [
+    "cache/ensdistill/scratch128_a0.75_t6000_p6000_lr0.001_s71_all_e3.pt+cache/ensdistill/scratch128_a0.75_t6000_p6000_lr0.001_s71_all_e4.pt+cache/ensdistill/scratch128_a0.75_t6000_p6000_lr0.001_s71_all_e5.pt@1",
+    "cache/ensdistill/scratch128_a0.75_t6000_p6000_lr0.001_s72_all_e3.pt+cache/ensdistill/scratch128_a0.75_t6000_p6000_lr0.001_s72_all_e4.pt+cache/ensdistill/scratch128_a0.75_t6000_p6000_lr0.001_s72_all_e5.pt@1",
+    "cache/ensdistill/scratch128_a0.75_t6000_p6000_lr0.001_s73_all_e3.pt+cache/ensdistill/scratch128_a0.75_t6000_p6000_lr0.001_s73_all_e4.pt+cache/ensdistill/scratch128_a0.75_t6000_p6000_lr0.001_s73_all_e5.pt@1",
+    "cache/ensdistill/scratch128_a0.75_t6000_p6000_lr0.001_s74_all_e3.pt+cache/ensdistill/scratch128_a0.75_t6000_p6000_lr0.001_s74_all_e4.pt+cache/ensdistill/scratch128_a0.75_t6000_p6000_lr0.001_s74_all_e5.pt@1",
+    "cache/maskft/split128_a0.75_s81_u0.06_lr0.0002_s7_all_e2.pt+cache/maskft/split128_a0.75_s81_u0.06_lr0.0002_s7_all_e3.pt@1"
+  ],
+  "zip_bytes": 1773661,
+  "max_abs_difference_vs_torch": 4.529953003817866e-07,
+  "seconds_per_20k_rows_this_host": 0.6825262079946697
+}

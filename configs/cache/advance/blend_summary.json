@@ -1,0 +1,71 @@
+{
+  "selection_rule": "FIT-CV all-row gain >= 0.002 over student and no regression in early, late, or deterministic random20 means",
+  "deployment_eligible": [],
+  "scores": {
+    "student": {
+      "folds": [
+        0.41538317378009193,
+        0.4340566711279393,
+        0.4159665464064858
+      ],
+      "all_mean": 0.4218021304381723,
+      "early_mean": 0.42342837039130626,
+      "late_mean": 0.42017854043721786,
+      "random20_mean": 0.42205639884311247,
+      "gain_vs_student": 0.0,
+      "passes": false
+    },
+    "student_norm50": {
+      "folds": [
+        0.4147261982481619,
+        0.4356405464267289,
+        0.419892127509808
+      ],
+      "all_mean": 0.42341962406156625,
+      "early_mean": 0.42602511085788897,
+      "late_mean": 0.4208059702650811,
+      "random20_mean": 0.423782925908543,
+      "gain_vs_student": 0.001617493623393973,
+      "passes": false
+    },
+    "student_seed17_50": {
+      "folds": [
+        0.41584791158290935,
+        0.43502068602260446,
+        0.41393804446693966
+      ],
+      "all_mean": 0.42160221402415116,
+      "early_mean": 0.424927643433509,
+      "late_mean": 0.418331987417303,
+      "random20_mean": 0.42174044228731256,
+      "gain_vs_student": -0.00019991641402111737,
+      "passes": false
+    },
+    "student_seed37_50": {
+      "folds": [
+        0.41371909763529735,
+        0.43440027700916606,
+        0.4166459719492946
+      ],
+      "all_mean": 0.421588448864586,
+      "early_mean": 0.42333828894449926,
+      "late_mean": 0.41978765532152124,
+      "random20_mean": 0.42177778201918975,
+      "gain_vs_student": -0.00021368157358625517,
+      "passes": false
+    },
+    "student_teacher50": {
+      "folds": [
+        0.41770031275532327,
+        0.4379497872340321,
+        0.4202875594685781
+      ],
+      "all_mean": 0.4253125531526445,
+      "early_mean": 0.4278719637068011,
+      "late_mean": 0.42274176779862566,
+      "random20_mean": 0.42554887724972096,
+      "gain_vs_student": 0.0035104227144722167,
+      "passes": true
+    }
+  }
+}

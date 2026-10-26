@@ -1,0 +1,121 @@
+{
+  "classes": 8,
+  "fit_coverage": 0.9015535072034019,
+  "auxiliary": 0.1,
+  "control": [
+    {
+      "t0": 0.005580468736412094,
+      "t1": 0.024082436750274366,
+      "weighted_pearson": 0.01483145274334323,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows",
+      "event_accuracy": null,
+      "event_other_rate": null
+    },
+    {
+      "t0": 0.3329374118478765,
+      "t1": 0.23123984776532963,
+      "weighted_pearson": 0.2820886298066031,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows",
+      "event_accuracy": null,
+      "event_other_rate": null
+    },
+    {
+      "t0": 0.3239944287179085,
+      "t1": 0.23553643735401766,
+      "weighted_pearson": 0.2797654330359631,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows",
+      "event_accuracy": null,
+      "event_other_rate": null
+    },
+    {
+      "t0": 0.3727137552234904,
+      "t1": 0.25941500011331836,
+      "weighted_pearson": 0.31606437766840434,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows",
+      "event_accuracy": null,
+      "event_other_rate": null
+    },
+    {
+      "t0": 0.3735291652968864,
+      "t1": 0.25593169249004694,
+      "weighted_pearson": 0.3147304288934667,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows",
+      "event_accuracy": null,
+      "event_other_rate": null
+    },
+    {
+      "t0": 0.37326749259053077,
+      "t1": 0.25416746116195177,
+      "weighted_pearson": 0.3137174768762413,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows",
+      "event_accuracy": null,
+      "event_other_rate": null
+    }
+  ],
+  "candidate": [
+    {
+      "t0": 0.005580468736412094,
+      "t1": 0.024082436750274366,
+      "weighted_pearson": 0.01483145274334323,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows",
+      "event_accuracy": 0.13460389702744988,
+      "event_other_rate": 0.10262172284644194
+    },
+    {
+      "t0": 0.33104830381629247,
+      "t1": 0.2339017954877874,
+      "weighted_pearson": 0.28247504965203996,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows",
+      "event_accuracy": 0.5069059245563299,
+      "event_other_rate": 0.10262172284644194
+    },
+    {
+      "t0": 0.32276528215339134,
+      "t1": 0.24130464865777992,
+      "weighted_pearson": 0.28203496540558565,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows",
+      "event_accuracy": 0.5310166089856034,
+      "event_other_rate": 0.10262172284644194
+    },
+    {
+      "t0": 0.37083179035344643,
+      "t1": 0.26576888318962316,
+      "weighted_pearson": 0.3183003367715348,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows",
+      "event_accuracy": 0.5385672972076044,
+      "event_other_rate": 0.10262172284644194
+    },
+    {
+      "t0": 0.37085882836895123,
+      "t1": 0.26578796152973244,
+      "weighted_pearson": 0.3183233949493418,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows",
+      "event_accuracy": 0.5519477235733814,
+      "event_other_rate": 0.10262172284644194
+    },
+    {
+      "t0": 0.3687354278867756,
+      "t1": 0.26068226474670103,
+      "weighted_pearson": 0.31470884631673834,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows",
+      "event_accuracy": 0.5539657706348078,
+      "event_other_rate": 0.10262172284644194
+    }
+  ],
+  "control_best": 0.31606437766840434,
+  "candidate_best": 0.3183233949493418,
+  "gain": 0.00225901728093747,
+  "passes_gate": false
+}

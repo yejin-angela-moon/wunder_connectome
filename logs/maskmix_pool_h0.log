@@ -1,0 +1,5 @@
+mask net held-out AUC 0.9081 mean q 0.1036 scored rate 0.0946
+v1_u0.06_lr0.0002_t936_pool_s7_h0 epoch 0 held-out scored WP 0.67616
+v1_u0.06_lr0.0002_t936_pool_s7_h0 epoch 1 loss 1.043881 held-out scored WP 0.680788 271s
+v1_u0.06_lr0.0002_t936_pool_s7_h0 epoch 2 loss 1.026636 held-out scored WP 0.680082 260s
+v1_u0.06_lr0.0002_t936_pool_s7_h0 epoch 3 loss 1.027167 held-out scored WP 0.679282 258s

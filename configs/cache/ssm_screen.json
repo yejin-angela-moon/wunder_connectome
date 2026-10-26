@@ -1,0 +1,47 @@
+{
+  "device": "mps",
+  "history": [
+    {
+      "t0": -0.007522355039874286,
+      "t1": -0.05383322695068381,
+      "weighted_pearson": -0.030677790995279047,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.3133275322180524,
+      "t1": 0.22021958382366466,
+      "weighted_pearson": 0.2667735580208585,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.30872075212950856,
+      "t1": 0.23135320869913187,
+      "weighted_pearson": 0.2700369804143202,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.3199492112147639,
+      "t1": 0.25678318894717655,
+      "weighted_pearson": 0.28836620008097025,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.334545335871413,
+      "t1": 0.2559884164712525,
+      "weighted_pearson": 0.29526687617133274,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.33793920779878145,
+      "t1": 0.26058347817906125,
+      "weighted_pearson": 0.2992613429889214,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    }
+  ]
+}

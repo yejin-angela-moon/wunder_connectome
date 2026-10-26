@@ -1,0 +1,5 @@
+gru128_a0.75_s61 epoch 1 loss 0.255198 793s
+gru128_a0.75_s61 epoch 2 loss 0.246653 2499s
+gru128_a0.75_s61 epoch 3 loss 0.243983 1182s
+gru128_a0.75_s61 epoch 4 loss 0.241031 669s
+gru128_a0.75_s61 epoch 5 loss 0.239739 667s

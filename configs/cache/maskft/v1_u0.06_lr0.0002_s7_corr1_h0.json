@@ -1,0 +1,26 @@
+{
+  "args": {
+    "command": "run",
+    "members": null,
+    "swa": null,
+    "freeze_recurrent": false,
+    "l2sp": 0.0,
+    "decay_after": 0,
+    "decay_lr": 5e-05,
+    "model": "v1",
+    "half": 0,
+    "unscored": 0.06,
+    "epochs": 3,
+    "lr": 0.0002,
+    "seed": 7,
+    "chunk": 512,
+    "target_balance": false,
+    "corr": 1.0
+  },
+  "held_out_scored_wp_by_epoch": [
+    0.6761602647334461,
+    0.6798503298110669,
+    0.6814300036075245,
+    0.6819251524118699
+  ]
+}

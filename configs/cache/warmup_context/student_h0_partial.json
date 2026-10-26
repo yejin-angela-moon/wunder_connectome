@@ -1,0 +1,16 @@
+{
+  "recipe": "gen-2 teacher, pool 6000, train_per_epoch 6000, alpha 0.75, seed 71, width 128",
+  "candidate_reported_to_6_decimals": {
+    "epoch_1": 0.679093,
+    "epoch_2": 0.681023
+  },
+  "matched_g71": {
+    "epoch_1": 0.6787440886757554,
+    "epoch_2": 0.681167641413257
+  },
+  "gain_approximate": {
+    "epoch_1": 0.000349,
+    "epoch_2": -0.000145
+  },
+  "decision": "stopped after epoch 2; did not meet the +0.0005 continuation gate"
+}

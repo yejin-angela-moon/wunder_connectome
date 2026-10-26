@@ -1,0 +1,19 @@
+{
+  "args": {
+    "command": "run",
+    "members": null,
+    "swa": null,
+    "model": "v1",
+    "half": 1,
+    "unscored": 0.02,
+    "epochs": 3,
+    "lr": 0.0002,
+    "seed": 7
+  },
+  "held_out_scored_wp_by_epoch": [
+    0.6750236845329318,
+    0.6790395760646711,
+    0.6783255110339457,
+    0.6788095038046174
+  ]
+}

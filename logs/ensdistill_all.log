@@ -1,0 +1,9 @@
+mask net epoch 1 bce 0.22949
+mask net epoch 2 bce 0.19155
+mask net epoch 3 bce 0.17872
+cached teacher v 1873
+cached teacher t 2000
+gru128_a0.75_s58_a0.5_t1872_lr0.0002_s7_all epoch 1 loss 0.59948 held-out scored WP None 579s
+gru128_a0.75_s58_a0.5_t1872_lr0.0002_s7_all epoch 2 loss 0.591784 held-out scored WP None 580s
+gru128_a0.75_s58_a0.5_t1872_lr0.0002_s7_all epoch 3 loss 0.589152 held-out scored WP None 580s
+gru128_a0.75_s58_a0.5_t1872_lr0.0002_s7_all epoch 4 loss 0.584417 held-out scored WP None 579s

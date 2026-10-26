@@ -1,0 +1,9 @@
+cached teacher v 936
+cached teacher t 2000
+gru128_a0.75_s58_a0.5_t1872_lr0.0002_s7_h1 epoch 0 held-out scored WP 0.674993
+gru128_a0.75_s58_a0.5_t1872_lr0.0002_s7_h1 epoch 1 loss 0.628459 held-out scored WP 0.681355 470s
+gru128_a0.75_s58_a0.5_t1872_lr0.0002_s7_h1 epoch 2 loss 0.617415 held-out scored WP 0.681129 469s
+gru128_a0.75_s58_a0.5_t1872_lr0.0002_s7_h1 epoch 3 loss 0.615682 held-out scored WP 0.680849 472s
+gru128_a0.75_s58_a0.5_t1872_lr0.0002_s7_h1 epoch 4 loss 0.616777 held-out scored WP 0.680555 473s
+gru128_a0.75_s58_a0.5_t1872_lr0.0002_s7_h1 epoch 5 loss 0.612172 held-out scored WP 0.678924 474s
+gru128_a0.75_s58_a0.5_t1872_lr0.0002_s7_h1 epoch 6 loss 0.607528 held-out scored WP 0.678341 477s

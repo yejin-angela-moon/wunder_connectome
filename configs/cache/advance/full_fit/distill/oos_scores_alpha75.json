@@ -1,0 +1,13 @@
+{
+  "split": "oos",
+  "selected_rows": 3528273,
+  "scores": {
+    "student": {
+      "t0": 0.6703230515924629,
+      "t1": 0.6811814518242665,
+      "weighted_pearson": 0.6757522517083647,
+      "selected_rows": 3528273,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    }
+  }
+}

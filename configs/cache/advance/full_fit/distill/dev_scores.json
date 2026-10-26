@@ -1,0 +1,20 @@
+{
+  "split": "dev",
+  "selected_rows": 21114961,
+  "scores": {
+    "teacher": {
+      "t0": 0.441194930905303,
+      "t1": 0.4449176188436356,
+      "weighted_pearson": 0.4430562748744693,
+      "selected_rows": 21114961,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "student": {
+      "t0": 0.44241709640453436,
+      "t1": 0.4465848938567927,
+      "weighted_pearson": 0.44450099513066355,
+      "selected_rows": 21114961,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    }
+  }
+}

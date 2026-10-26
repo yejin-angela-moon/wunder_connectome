@@ -1,0 +1,3 @@
+split128_a0.75_s81_u0.06_lr0.0002_s7_all epoch 1 loss 0.986622 held-out scored WP None
+split128_a0.75_s81_u0.06_lr0.0002_s7_all epoch 2 loss 0.972584 held-out scored WP None
+split128_a0.75_s81_u0.06_lr0.0002_s7_all epoch 3 loss 0.963087 held-out scored WP None

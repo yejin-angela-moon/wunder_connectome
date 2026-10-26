@@ -1,0 +1,106 @@
+{
+  "gains": [
+    [
+      1.0,
+      0.02
+    ],
+    [
+      1.0,
+      0.05
+    ],
+    [
+      1.0,
+      0.1
+    ],
+    [
+      1.0,
+      0.25
+    ],
+    [
+      0.5,
+      0.05
+    ],
+    [
+      0.5,
+      0.1
+    ],
+    [
+      0.25,
+      0.1
+    ],
+    [
+      0.0,
+      0.1
+    ]
+  ],
+  "scores": {
+    "raw": {
+      "t0": 0.3727137552234904,
+      "t1": 0.25941500011331836,
+      "weighted_pearson": 0.31606437766840434,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "e1_r0.02": {
+      "t0": 0.3487632165303308,
+      "t1": 0.22200829861939558,
+      "weighted_pearson": 0.2853857575748632,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "e1_r0.05": {
+      "t0": 0.35532558339998127,
+      "t1": 0.23073094466009256,
+      "weighted_pearson": 0.2930282640300369,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "e1_r0.1": {
+      "t0": 0.3607010533294367,
+      "t1": 0.23879688928347215,
+      "weighted_pearson": 0.2997489713064544,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "e1_r0.25": {
+      "t0": 0.3672841152048382,
+      "t1": 0.24934288078592023,
+      "weighted_pearson": 0.3083134979953792,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "e0.5_r0.05": {
+      "t0": 0.35221113002586313,
+      "t1": 0.22430245366281162,
+      "weighted_pearson": 0.2882567918443374,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "e0.5_r0.1": {
+      "t0": 0.35790694011544,
+      "t1": 0.23331235861332714,
+      "weighted_pearson": 0.29560964936438355,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "e0.25_r0.1": {
+      "t0": 0.3540277100856436,
+      "t1": 0.2262673514839608,
+      "weighted_pearson": 0.2901475307848022,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "e0_r0.1": {
+      "t0": 0.3408699413119624,
+      "t1": 0.20603518281754082,
+      "weighted_pearson": 0.2734525620647516,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    }
+  },
+  "baseline": 0.31606437766840434,
+  "best": "raw",
+  "best_score": 0.31606437766840434,
+  "gain": 0.0,
+  "passes_gate": false
+}

@@ -1,0 +1,121 @@
+{
+  "classes": 8,
+  "fit_coverage": 0.9015535072034019,
+  "auxiliary": 0.5,
+  "control": [
+    {
+      "t0": 0.005580468736412094,
+      "t1": 0.024082436750274366,
+      "weighted_pearson": 0.01483145274334323,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows",
+      "event_accuracy": null,
+      "event_other_rate": null
+    },
+    {
+      "t0": 0.3329374118478765,
+      "t1": 0.23123984776532963,
+      "weighted_pearson": 0.2820886298066031,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows",
+      "event_accuracy": null,
+      "event_other_rate": null
+    },
+    {
+      "t0": 0.3239944287179085,
+      "t1": 0.23553643735401766,
+      "weighted_pearson": 0.2797654330359631,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows",
+      "event_accuracy": null,
+      "event_other_rate": null
+    },
+    {
+      "t0": 0.3727137552234904,
+      "t1": 0.25941500011331836,
+      "weighted_pearson": 0.31606437766840434,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows",
+      "event_accuracy": null,
+      "event_other_rate": null
+    },
+    {
+      "t0": 0.3735291652968864,
+      "t1": 0.25593169249004694,
+      "weighted_pearson": 0.3147304288934667,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows",
+      "event_accuracy": null,
+      "event_other_rate": null
+    },
+    {
+      "t0": 0.37326749259053077,
+      "t1": 0.25416746116195177,
+      "weighted_pearson": 0.3137174768762413,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows",
+      "event_accuracy": null,
+      "event_other_rate": null
+    }
+  ],
+  "candidate": [
+    {
+      "t0": 0.005580468736412094,
+      "t1": 0.024082436750274366,
+      "weighted_pearson": 0.01483145274334323,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows",
+      "event_accuracy": 0.13460389702744988,
+      "event_other_rate": 0.10262172284644194
+    },
+    {
+      "t0": 0.333734579349981,
+      "t1": 0.24036710024342528,
+      "weighted_pearson": 0.28705083979670315,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows",
+      "event_accuracy": 0.5264621754452504,
+      "event_other_rate": 0.10262172284644194
+    },
+    {
+      "t0": 0.32515994154905475,
+      "t1": 0.2434785460071285,
+      "weighted_pearson": 0.28431924377809165,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows",
+      "event_accuracy": 0.549239084056322,
+      "event_other_rate": 0.10262172284644194
+    },
+    {
+      "t0": 0.36574276046879345,
+      "t1": 0.26635894110571773,
+      "weighted_pearson": 0.3160508507872556,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows",
+      "event_accuracy": 0.5653376317577712,
+      "event_other_rate": 0.10262172284644194
+    },
+    {
+      "t0": 0.3677841165732167,
+      "t1": 0.2685927524337816,
+      "weighted_pearson": 0.31818843450349915,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows",
+      "event_accuracy": 0.5683244046208062,
+      "event_other_rate": 0.10262172284644194
+    },
+    {
+      "t0": 0.3645010145591531,
+      "t1": 0.26280003987101286,
+      "weighted_pearson": 0.313650527215083,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows",
+      "event_accuracy": 0.568743184942872,
+      "event_other_rate": 0.10262172284644194
+    }
+  ],
+  "control_best": 0.31606437766840434,
+  "candidate_best": 0.31818843450349915,
+  "gain": 0.002124056835094812,
+  "passes_gate": false
+}

@@ -1,0 +1,158 @@
+{
+  "ridge_lag": {
+    "global": {
+      "all": {
+        "t0": 0.3513940172891624,
+        "t1": 0.3552125355379338,
+        "weighted_pearson": 0.3533032764135481,
+        "selected_rows": 21114961,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "early": {
+        "t0": 0.34425034385535763,
+        "t1": 0.35732576171641134,
+        "weighted_pearson": 0.3507880527858845,
+        "selected_rows": 10504961,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "late": {
+        "t0": 0.3584187241249911,
+        "t1": 0.35296471647977506,
+        "weighted_pearson": 0.35569172030238305,
+        "selected_rows": 10610000,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "random20": {
+        "t0": 0.3516627725018489,
+        "t1": 0.3553708572689893,
+        "weighted_pearson": 0.3535168148854191,
+        "selected_rows": 4220639,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      }
+    },
+    "legacy_block": {
+      "t0": 0.2591780707804732,
+      "t1": 0.2687563017616082,
+      "weighted_pearson": 0.2639671862710407,
+      "blocks": 1061,
+      "eligible_blocks": 1061,
+      "excluded_blocks": 0,
+      "selected_rows": 21114961,
+      "effective_scored_rows": 21114961,
+      "metric_clip": [
+        -2.0,
+        2.0
+      ],
+      "aggregation": "equal mean of eligible block-wise two-target clipped Weighted Pearson"
+    },
+    "sequence_wp_quantiles": [
+      0.07676137143644007,
+      0.24667554892651972,
+      0.4845080434804019
+    ]
+  },
+  "mlp_norm": {
+    "global": {
+      "all": {
+        "t0": 0.3684795842182238,
+        "t1": 0.37047027612643346,
+        "weighted_pearson": 0.36947493017232863,
+        "selected_rows": 21114961,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "early": {
+        "t0": 0.3587175542565933,
+        "t1": 0.37295819845376516,
+        "weighted_pearson": 0.3658378763551792,
+        "selected_rows": 10504961,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "late": {
+        "t0": 0.3781256355933141,
+        "t1": 0.36786702779737757,
+        "weighted_pearson": 0.37299633169534585,
+        "selected_rows": 10610000,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "random20": {
+        "t0": 0.36885371137585476,
+        "t1": 0.3705750930598808,
+        "weighted_pearson": 0.3697144022178678,
+        "selected_rows": 4220639,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      }
+    },
+    "legacy_block": {
+      "t0": 0.2794051516980604,
+      "t1": 0.27773194431368725,
+      "weighted_pearson": 0.27856854800587383,
+      "blocks": 1061,
+      "eligible_blocks": 1061,
+      "excluded_blocks": 0,
+      "selected_rows": 21114961,
+      "effective_scored_rows": 21114961,
+      "metric_clip": [
+        -2.0,
+        2.0
+      ],
+      "aggregation": "equal mean of eligible block-wise two-target clipped Weighted Pearson"
+    },
+    "sequence_wp_quantiles": [
+      0.11368368946076943,
+      0.2654607908726341,
+      0.4914809479780974
+    ]
+  },
+  "gru96": {
+    "global": {
+      "all": {
+        "t0": 0.41069792896578045,
+        "t1": 0.4181765152803362,
+        "weighted_pearson": 0.41443722212305834,
+        "selected_rows": 21114961,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "early": {
+        "t0": 0.4005091515860901,
+        "t1": 0.4231851810345683,
+        "weighted_pearson": 0.4118471663103292,
+        "selected_rows": 10504961,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "late": {
+        "t0": 0.42046574141701,
+        "t1": 0.41304702604368526,
+        "weighted_pearson": 0.4167563837303476,
+        "selected_rows": 10610000,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "random20": {
+        "t0": 0.4108850459425656,
+        "t1": 0.41828047482420083,
+        "weighted_pearson": 0.4145827603833832,
+        "selected_rows": 4220639,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      }
+    },
+    "legacy_block": {
+      "t0": 0.33170787175090527,
+      "t1": 0.3338229189593685,
+      "weighted_pearson": 0.3327653953551369,
+      "blocks": 1061,
+      "eligible_blocks": 1061,
+      "excluded_blocks": 0,
+      "selected_rows": 21114961,
+      "effective_scored_rows": 21114961,
+      "metric_clip": [
+        -2.0,
+        2.0
+      ],
+      "aggregation": "equal mean of eligible block-wise two-target clipped Weighted Pearson"
+    },
+    "sequence_wp_quantiles": [
+      0.1388111752457619,
+      0.3266957002326026,
+      0.5368032082130267
+    ]
+  }
+}

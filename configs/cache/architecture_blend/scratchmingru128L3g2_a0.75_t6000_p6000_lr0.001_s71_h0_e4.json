@@ -1,0 +1,15 @@
+{
+  "checkpoint": "research/cache/ensdistill/scratchmingru128L3g2_a0.75_t6000_p6000_lr0.001_s71_h0_e4.pt",
+  "half": 0,
+  "scores": {
+    "candidate": 0.6837195982089077,
+    "strong": 0.6860212229847338,
+    "candidate_0.05": 0.6860641958121549,
+    "candidate_0.1": 0.6860913535786652,
+    "candidate_0.2": 0.6860976329200678,
+    "candidate_0.3": 0.6860388862463198
+  },
+  "best": "candidate_0.2",
+  "gain": 7.640993533397644e-05,
+  "passes_gate": false
+}

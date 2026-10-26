@@ -1,0 +1,17 @@
+{
+  "event_previous": {
+    "t0": 0.5496208376675216,
+    "t1": 0.5233955464236538,
+    "weighted_pearson": 0.5365081920455876,
+    "selected_rows": 116034,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  },
+  "assigned_current": {
+    "t0": 0.2772834874912701,
+    "t1": 0.1770865800868479,
+    "weighted_pearson": 0.227185033789059,
+    "selected_rows": 636832,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  },
+  "passes_reconstruction_gate": false
+}

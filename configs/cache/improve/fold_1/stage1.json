@@ -1,0 +1,44 @@
+{
+  "gru64_seed7": {
+    "t0": 0.3870386520552334,
+    "t1": 0.39503215538636693,
+    "weighted_pearson": 0.39103540372080015,
+    "selected_rows": 10189312,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  },
+  "gru96_seed7": {
+    "t0": 0.39495205415820567,
+    "t1": 0.4024848968837594,
+    "weighted_pearson": 0.3987184755209825,
+    "selected_rows": 10189312,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  },
+  "gru64_seed17": {
+    "t0": 0.3944060704406337,
+    "t1": 0.40047413039954544,
+    "weighted_pearson": 0.3974401004200896,
+    "selected_rows": 10189312,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  },
+  "gru96_seed17": {
+    "t0": 0.39806064887079606,
+    "t1": 0.40485867679744103,
+    "weighted_pearson": 0.40145966283411855,
+    "selected_rows": 10189312,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  },
+  "gru64_seed37": {
+    "t0": 0.39038190213192425,
+    "t1": 0.3934585607224001,
+    "weighted_pearson": 0.39192023142716215,
+    "selected_rows": 10189312,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  },
+  "gru96_seed37": {
+    "t0": 0.3928230407724068,
+    "t1": 0.40157011695979794,
+    "weighted_pearson": 0.3971965788661024,
+    "selected_rows": 10189312,
+    "aggregation": "global clipped Weighted Pearson over all selected rows"
+  }
+}

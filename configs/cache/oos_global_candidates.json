@@ -1,0 +1,71 @@
+{
+  "metric": "global_wp",
+  "sequences": 1873,
+  "selected_rows": 3528273,
+  "seconds": 1069.5581646659411,
+  "models": {
+    "pilot_ridge": {
+      "t0": 0.5569829147266422,
+      "t1": 0.5896840555467664,
+      "weighted_pearson": 0.5733334851367042,
+      "selected_rows": 3528273,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "pilot_mlp": {
+      "t0": 0.5471771700580157,
+      "t1": 0.5886229000350934,
+      "weighted_pearson": 0.5679000350465546,
+      "selected_rows": 3528273,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "pilot_gru": {
+      "t0": 0.566482537445957,
+      "t1": 0.5880350656824311,
+      "weighted_pearson": 0.5772588015641941,
+      "selected_rows": 3528273,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "expanded_ridge": {
+      "t0": 0.5836931566173809,
+      "t1": 0.593442288945332,
+      "weighted_pearson": 0.5885677227813564,
+      "selected_rows": 3528273,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "expanded_mlp": {
+      "t0": 0.5969037111084445,
+      "t1": 0.6128686611624963,
+      "weighted_pearson": 0.6048861861354704,
+      "selected_rows": 3528273,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "expanded_gru": {
+      "t0": 0.6548671173130315,
+      "t1": 0.6630761439336231,
+      "weighted_pearson": 0.6589716306233273,
+      "selected_rows": 3528273,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "selected_ridge_lag": {
+      "t0": 0.5927920229423164,
+      "t1": 0.6033519372173014,
+      "weighted_pearson": 0.5980719800798089,
+      "selected_rows": 3528273,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "selected_mlp_norm": {
+      "t0": 0.5990995014611199,
+      "t1": 0.6189525299399123,
+      "weighted_pearson": 0.6090260157005161,
+      "selected_rows": 3528273,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    "selected_gru96": {
+      "t0": 0.6573863354503356,
+      "t1": 0.6656093435704646,
+      "weighted_pearson": 0.6614978395104001,
+      "selected_rows": 3528273,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    }
+  }
+}

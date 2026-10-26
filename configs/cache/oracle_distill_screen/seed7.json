@@ -1,0 +1,39 @@
+{
+  "seed": 7,
+  "alpha": 0.5,
+  "control": 0.3160643776683788,
+  "cross_fitted_teacher": true,
+  "history": [
+    {
+      "t0": 0.005580468736407102,
+      "t1": 0.024082436750273897,
+      "weighted_pearson": 0.014831452743340499,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.3393984219318407,
+      "t1": 0.2376976270307147,
+      "weighted_pearson": 0.2885480244812777,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.3270412396283402,
+      "t1": 0.23174867659831305,
+      "weighted_pearson": 0.2793949581133266,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.37334151883681305,
+      "t1": 0.2573867149919905,
+      "weighted_pearson": 0.3153641169144018,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    }
+  ],
+  "best": 0.3153641169144018,
+  "gain": -0.000700260753977,
+  "passes_gate": false
+}

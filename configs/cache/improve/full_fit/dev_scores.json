@@ -1,0 +1,187 @@
+{
+  "split": "dev",
+  "sequences": 1061,
+  "selected_rows": 21114961,
+  "models": {
+    "gru96_norm5ep": {
+      "all": {
+        "t0": 0.4316016904950137,
+        "t1": 0.43554434767737643,
+        "weighted_pearson": 0.43357301908619506,
+        "selected_rows": 21114961,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "early": {
+        "t0": 0.42664998133816395,
+        "t1": 0.4421459975361353,
+        "weighted_pearson": 0.43439798943714963,
+        "selected_rows": 10504961,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "late": {
+        "t0": 0.43650405226241307,
+        "t1": 0.4290141731941589,
+        "weighted_pearson": 0.432759112728286,
+        "selected_rows": 10610000,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "random20": {
+        "t0": 0.4318433089273496,
+        "t1": 0.4358825798780609,
+        "weighted_pearson": 0.43386294440270523,
+        "selected_rows": 4220639,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      }
+    },
+    "gru96_seed17": {
+      "all": {
+        "t0": 0.4155670044439877,
+        "t1": 0.4261225808174216,
+        "weighted_pearson": 0.4208447926307046,
+        "selected_rows": 21114961,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "early": {
+        "t0": 0.410949522156191,
+        "t1": 0.4338273672406635,
+        "weighted_pearson": 0.4223884446984273,
+        "selected_rows": 10504961,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "late": {
+        "t0": 0.41989361139858583,
+        "t1": 0.4183921080641998,
+        "weighted_pearson": 0.4191428597313928,
+        "selected_rows": 10610000,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "random20": {
+        "t0": 0.41569421039081705,
+        "t1": 0.4262406363762932,
+        "weighted_pearson": 0.42096742338355514,
+        "selected_rows": 4220639,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      }
+    },
+    "gru96_seed37": {
+      "all": {
+        "t0": 0.42355700525492673,
+        "t1": 0.4262317097133325,
+        "weighted_pearson": 0.4248943574841296,
+        "selected_rows": 21114961,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "early": {
+        "t0": 0.4153913449188745,
+        "t1": 0.43036483958514254,
+        "weighted_pearson": 0.42287809225200856,
+        "selected_rows": 10504961,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "late": {
+        "t0": 0.4315300740106191,
+        "t1": 0.42200139495504213,
+        "weighted_pearson": 0.4267657344828306,
+        "selected_rows": 10610000,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "random20": {
+        "t0": 0.42409347695302674,
+        "t1": 0.4266191508944534,
+        "weighted_pearson": 0.42535631392374007,
+        "selected_rows": 4220639,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      }
+    },
+    "ridge_ema32": {
+      "all": {
+        "t0": 0.3801613804335574,
+        "t1": 0.3841913003265289,
+        "weighted_pearson": 0.3821763403800431,
+        "selected_rows": 21114961,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "early": {
+        "t0": 0.37273444901880826,
+        "t1": 0.38810323945506536,
+        "weighted_pearson": 0.38041884423693684,
+        "selected_rows": 10504961,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "late": {
+        "t0": 0.3874806621454249,
+        "t1": 0.3802173840964607,
+        "weighted_pearson": 0.3838490231209428,
+        "selected_rows": 10610000,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "random20": {
+        "t0": 0.3804971361438698,
+        "t1": 0.3846034104707352,
+        "weighted_pearson": 0.3825502733073025,
+        "selected_rows": 4220639,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      }
+    },
+    "mlp_lag32_4": {
+      "all": {
+        "t0": 0.3901159521172029,
+        "t1": 0.39656695805638836,
+        "weighted_pearson": 0.39334145508679563,
+        "selected_rows": 21114961,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "early": {
+        "t0": 0.3834683471052012,
+        "t1": 0.40103181247389513,
+        "weighted_pearson": 0.3922500797895482,
+        "selected_rows": 10504961,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "late": {
+        "t0": 0.39669061949712925,
+        "t1": 0.3920588818075269,
+        "weighted_pearson": 0.3943747506523281,
+        "selected_rows": 10610000,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "random20": {
+        "t0": 0.39074635766142013,
+        "t1": 0.39689364826324675,
+        "weighted_pearson": 0.39382000296233344,
+        "selected_rows": 4220639,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      }
+    },
+    "ensemble": {
+      "all": {
+        "t0": 0.4411949334748683,
+        "t1": 0.44491762221868775,
+        "weighted_pearson": 0.44305627784677803,
+        "selected_rows": 21114961,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "early": {
+        "t0": 0.4355721883958375,
+        "t1": 0.4518933661306926,
+        "weighted_pearson": 0.44373277726326504,
+        "selected_rows": 10504961,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "late": {
+        "t0": 0.44661995667215193,
+        "t1": 0.4379305221197159,
+        "weighted_pearson": 0.44227523939593394,
+        "selected_rows": 10610000,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      },
+      "random20": {
+        "t0": 0.4415531143584451,
+        "t1": 0.4452237311984756,
+        "weighted_pearson": 0.44338842277846036,
+        "selected_rows": 4220639,
+        "aggregation": "global clipped Weighted Pearson over all selected rows"
+      }
+    }
+  }
+}

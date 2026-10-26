@@ -1,0 +1,18 @@
+{
+  "args": {
+    "command": "run",
+    "members": null,
+    "model": "t_norm",
+    "half": 0,
+    "unscored": 0.06,
+    "epochs": 3,
+    "lr": 0.0002,
+    "seed": 7
+  },
+  "held_out_scored_wp_by_epoch": [
+    0.6720392932272727,
+    0.676720855746046,
+    0.6781084920247042,
+    0.6782812742330325
+  ]
+}

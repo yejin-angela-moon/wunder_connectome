@@ -1,0 +1,38 @@
+{
+  "seed": 7,
+  "cross_fitted_train_feature": true,
+  "control": 0.3160643776683788,
+  "history": [
+    {
+      "t0": 0.005580468736412094,
+      "t1": 0.024082436750274366,
+      "weighted_pearson": 0.01483145274334323,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.3299457239008854,
+      "t1": 0.23473495158904312,
+      "weighted_pearson": 0.28234033774496425,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.32555364596422376,
+      "t1": 0.23582213851599587,
+      "weighted_pearson": 0.2806878922401098,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    },
+    {
+      "t0": 0.3725297247111933,
+      "t1": 0.2625592050421639,
+      "weighted_pearson": 0.3175444648766786,
+      "selected_rows": 636832,
+      "aggregation": "global clipped Weighted Pearson over all selected rows"
+    }
+  ],
+  "best": 0.3175444648766786,
+  "gain": 0.0014800872082997851,
+  "passes_gate": false
+}

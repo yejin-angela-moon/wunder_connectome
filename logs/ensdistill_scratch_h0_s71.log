@@ -1,0 +1,6 @@
+scratch128_a0.75_t6000_p6000_lr0.001_s71_h0 epoch 0 held-out scored WP 0.02048
+scratch128_a0.75_t6000_p6000_lr0.001_s71_h0 epoch 1 loss 0.35392 held-out scored WP 0.678639 3809s
+scratch128_a0.75_t6000_p6000_lr0.001_s71_h0 epoch 2 loss 0.338176 held-out scored WP 0.680891 6348s
+scratch128_a0.75_t6000_p6000_lr0.001_s71_h0 epoch 3 loss 0.335343 held-out scored WP 0.680658 1249s
+scratch128_a0.75_t6000_p6000_lr0.001_s71_h0 epoch 4 loss 0.327674 held-out scored WP 0.684167 1337s
+scratch128_a0.75_t6000_p6000_lr0.001_s71_h0 epoch 5 loss 0.326272 held-out scored WP 0.684585 1537s

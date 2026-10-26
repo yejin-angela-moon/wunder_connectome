@@ -1,0 +1,11 @@
+{
+  "members": [
+    "cache/ensdistill/scratch128_a0.75_t6000_p6000_lr0.001_s71_all_e3.pt+cache/ensdistill/scratch128_a0.75_t6000_p6000_lr0.001_s71_all_e4.pt+cache/ensdistill/scratch128_a0.75_t6000_p6000_lr0.001_s71_all_e5.pt@1.5",
+    "cache/ensdistill/scratch128_a0.75_t6000_p6000_lr0.001_s72_all_e3.pt+cache/ensdistill/scratch128_a0.75_t6000_p6000_lr0.001_s72_all_e4.pt+cache/ensdistill/scratch128_a0.75_t6000_p6000_lr0.001_s72_all_e5.pt@1.5",
+    "cache/maskft/gru192_a0.5_s57_u0.06_lr0.0002_s7_all_e2.pt+cache/maskft/gru192_a0.5_s57_u0.06_lr0.0002_s7_all_e3.pt@1",
+    "cache/maskft/split128_a0.75_s81_u0.06_lr0.0002_s7_all_e2.pt+cache/maskft/split128_a0.75_s81_u0.06_lr0.0002_s7_all_e3.pt@1"
+  ],
+  "zip_bytes": 1737771,
+  "max_abs_difference_vs_torch": 5.053356289808075e-07,
+  "seconds_per_20k_rows_this_host": 0.7839927090099081
+}
